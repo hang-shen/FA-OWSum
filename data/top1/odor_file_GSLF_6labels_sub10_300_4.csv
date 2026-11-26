@@ -1,0 +1,850 @@
+smiles,descriptor
+CCOC(C)OCC,['nutty']
+CC(C)OC(C)OC(C)C,['pungent']
+CCOC(C)OCC(C)CC,"['nutty', 'pungent']"
+CCOCCOCCC(C)C,"['nutty', 'pungent']"
+CCCCCOC(C)OCC,['pungent']
+CCOC(C)OC,"['nutty', 'pungent']"
+CCCOC(C)OCC,"['nutty', 'pungent']"
+CC(C)CCOC(C)OCC(C)C,['nutty']
+CC(=O)O,['pungent']
+CC(=O)OCC(COC(C)=O)OC(C)=O,['tropical']
+CC(=O)C(C)O,['buttery']
+CC(=O)CO,['pungent']
+CC(=O)COC(C)=O,"['nutty', 'buttery']"
+CC(=O)c1ccccc1,"['nutty', 'pungent']"
+CCC(=O)COC(C)=O,"['nutty', 'buttery']"
+CC(=O)OC1=C(C)OC(C)C1=O,['tropical']
+CC(=O)c1oc(C)cc1C,['nutty']
+CC(=O)c1cc(C)oc1C,['nutty']
+CC(=O)[n+]1cc(C)nc(C)c1,['nutty']
+CC(=O)c1ncc(C)nc1C,['nutty']
+CC(=O)c1cnc(C)c(C)n1,['nutty']
+CC(=O)c1cc(C)sc1C,['nutty']
+CCc1nccnc1C(C)=O,['nutty']
+CCc1cnc(C(C)=O)cn1,['nutty']
+CCc1cncc(C(C)=O)n1,['nutty']
+CC(=O)CCc1nccs1,['nutty']
+CC(=O)c1ccc(C)o1,['nutty']
+CC(=O)c1nccnc1C,['nutty']
+CC(=O)c1ccnc(C)n1,['nutty']
+CC(=O)c1cnccn1,['nutty']
+CC(=O)c1ccccn1,['nutty']
+CC(=O)c1cccnc1,['nutty']
+CC(=O)c1ccc[nH]1,['nutty']
+CC(=O)C1=CCCCN1,['nutty']
+CC(=O)c1nccs1,['nutty']
+CC(=O)C1NCCS1,['nutty']
+CC(=O)C1=NCCS1,['nutty']
+CC(=O)OCCCCCCSC(C)=O,"['sulfurous', 'tropical']"
+C=CCOC(C)=O,['pungent']
+C=CCO,['pungent']
+C=CCOC(=O)CCC,"['tropical', 'pungent']"
+C=CCOC(=O)CCC1CCCCC1,['tropical']
+C=CCOC(=O)C(CC)CC,['nutty']
+C=CCOC(=O)CCCCC,['tropical']
+C=CCN=C=S,"['sulfurous', 'pungent']"
+C=CCOC(=O)CC(C)C,['pungent']
+C=CCSC,['sulfurous']
+C=CCOC(=O)CCCCCCCC,['nutty']
+C=CCOC(=O)CCCCCCC,['tropical']
+C=CCSSC=CC,['sulfurous']
+C=CCOC(=O)CC,"['nutty', 'tropical', 'pungent']"
+C=CCSSCCC,['sulfurous']
+C=CCSCCC,['sulfurous']
+C=CCSSSCCC,"['sulfurous', 'pungent']"
+C=CCSCC=C,"['sulfurous', 'pungent']"
+C=CCCCCCCCCC(=O)OCC=C,['nutty']
+CCCCCO,['pungent']
+CCCCCOC(=O)C(C)C,['buttery']
+CCCCCC1OCCOC1=O,['buttery']
+CCCCCOC(=O)C(C)CC,['tropical']
+CCCCCOC(=O)CC,['tropical']
+CC1=CCC(=O)O1,['nutty']
+CCCC(=O)OCc1ccc(OC)cc1,"['tropical', 'buttery']"
+C=CC(C)(C)C(=O)C=C(C)C,['mint']
+COC(OC)c1ccccc1,['nutty']
+O=Cc1ccccc1,['nutty']
+O=Cc1cc2ccccc2o1,['nutty']
+c1ccc2scnc2c1,"['nutty', 'sulfurous']"
+CCCC(=O)OCc1ccccc1,['tropical']
+c1ccc(CSSCc2ccccc2)cc1,['sulfurous']
+CCOCc1ccccc1,['tropical']
+CCCCCC(=O)OCc1ccccc1,['tropical']
+CC(C)C(=O)OCc1ccccc1,['tropical']
+S=C=NCc1ccccc1,['pungent']
+CC(O)C(=O)OCc1ccccc1,['buttery']
+SCc1ccccc1,"['sulfurous', 'mint']"
+CSCc1ccccc1,['sulfurous']
+CCC(C)C(=O)OCc1ccccc1,['tropical']
+CCCC(=O)C(CC)Cc1ccccc1,['mint']
+c1ccc(-c2ccccc2)cc1,['pungent']
+CCSC(C)SCC,"['sulfurous', 'tropical']"
+c1coc(CSSCc2ccco2)c1,['sulfurous']
+c1coc(CSCc2ccco2)c1,"['nutty', 'sulfurous']"
+Cc1occc1SSc1ccoc1C,['sulfurous']
+CCC(S)CS,['sulfurous']
+CC(S)CCS,"['nutty', 'sulfurous']"
+CC(S)C(C)S,['sulfurous']
+SCCCCS,['sulfurous']
+CCCCS,['sulfurous']
+CCC(C)S,['sulfurous']
+O=C1C=CCO1,['buttery']
+C=CC(C)=O,['pungent']
+CCC=CSC,['sulfurous']
+CCCCOCCOC(C)=O,['pungent']
+CCCCOC(=O)C(C)OC(=O)CCC,['buttery']
+CCCCCCC(=O)OCCCC,['tropical']
+CCCCOC(=O)C(C)C,['tropical']
+CCCCN=C=S,"['sulfurous', 'pungent']"
+CCCCOC(=O)CC(C)C,['pungent']
+CCCCOC(=O)C(C)O,['buttery']
+CCC(C)OC(=O)C(C)O,['buttery']
+CCC(C)SC(=O)CC(C)C,"['sulfurous', 'tropical']"
+CCC(C)SC(=O)C=C(C)C,"['sulfurous', 'tropical']"
+CCCCOC(=O)C(C)CC,['tropical']
+CCCCCCCC(=O)OCCCC,['buttery']
+C=CCCCCCCCCC(=O)OCCCC,['buttery']
+CCCCOC(=O)CCCC,['tropical']
+CCC(C)C1CCCCC1=O,['mint']
+CCCCc1sc(C)nc1C,['nutty']
+CCCCc1nc(C)c(C)s1,"['nutty', 'sulfurous']"
+CCC(C)C1N=C(C)C(C)S1,['nutty']
+CCCCc1ccc(CC)s1,['sulfurous']
+CCCCc1ccco1,['nutty']
+CCCC=O,['pungent']
+CCCC(=O)O,['buttery']
+CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,['buttery']
+C=C1C2CCC(C2)C1(C)C,['mint']
+C=C(C)C1CC=C(C)C(O)C1,['mint']
+CC1CCC(C(C)C)CC1=O,['mint']
+C=C(C)C1CC=C(C)C(OC(C)=O)C1,['mint']
+C=C(C)C1CC=C(C)C(OC(=O)CC)C1,['mint']
+CC(C)C12CCC(C)(CC1)O2,['mint']
+CC(=O)OCCC(C)CCC=C(C)C,['tropical']
+CCCC(=O)OCCC(C)CCC=C(C)C,['tropical']
+CC(C)=CCCC(C)CCOC(=O)C(C)C,['tropical']
+CC(C)C1C=CC(=O)CC1,['mint']
+CC(C)c1ccc(C=O)cc1,['pungent']
+CC1=C(C=O)C(C)(C)CCC1,"['tropical', 'mint']"
+O=C(O)CC1CCCCC1,['buttery']
+O=C(O)C1CCCCC1,['tropical']
+CC(=O)OCCC1CCCCC1,['mint']
+SC1CCCCC1,['sulfurous']
+OC1CCCCC1,['mint']
+O=C1CCCCC1,['mint']
+c1cnc(CC2CCCCC2)cn1,['nutty']
+O=C1CCCC1,"['nutty', 'mint']"
+Cc1ccc(C(C)(C)O)cc1,['nutty']
+CCCCCC1CCCC(=O)O1,"['nutty', 'buttery']"
+CCCCC1CCCCC(=O)O1,"['nutty', 'buttery']"
+CCCCCCC1CCC(=O)O1,['buttery']
+CCC=CCCC1CCC(=O)O1,"['nutty', 'tropical', 'buttery']"
+CC1=C2CCC(C)C=C2OC1=O,['mint']
+CC(=O)C(C)=O,"['pungent', 'buttery']"
+CC(=O)CCSCCC(C)=O,['sulfurous']
+CCCCC1(CCCC)CCC(=O)O1,['buttery']
+CCCCSSCCCC,['sulfurous']
+C1CCC(SSC2CCCCC2)CC1,['nutty']
+CCOC(OCC)C(=O)CC,['buttery']
+C=CC(OCC)OCC,['pungent']
+CCSCC,['sulfurous']
+CCc1ncc(C)nc1CC,['nutty']
+CCc1cnc(CC)c(C)n1,['nutty']
+CCc1cnc(C)c(CC)n1,['nutty']
+CCc1nc(C)sc1CC,['nutty']
+CCc1nccnc1CC,['nutty']
+CCc1cnc(CC)cn1,['nutty']
+CCC1CCC(CC)O1,['mint']
+CCc1cnc(CC)s1,['nutty']
+CCC1(CC)CSSS1,['sulfurous']
+c1coc(COCc2ccco2)c1,['nutty']
+C=C(C)C1CCC(C)C(O)C1,['mint']
+C=C(C)C1CCC(C)C(=O)C1,['mint']
+O=C1CCc2ccccc2O1,['nutty']
+CC1CC(C)c2nccnc21,['nutty']
+Cc1cnc2c(n1)CCC2C,['nutty']
+Cc1nc2c(nc1C)CCC2,['nutty']
+SCC1CC=CO1,['sulfurous']
+Cc1ncc2c(n1)CSC2,['nutty']
+O=C1CCSC1,['buttery']
+O=C(c1ccccc1)C(O)O,['nutty']
+O=C(CO)CO,['mint']
+OC1CSC(O)CS1,"['sulfurous', 'pungent']"
+CC(C)SC(C)C,['sulfurous']
+COc1cccc(OC)c1,['nutty']
+COc1ccccc1OC,['nutty']
+COc1ccc(OC)cc1,['nutty']
+CC(=O)c1ccc(C)cc1C,['mint']
+CC(=O)C1(C)CC=C(C)CC1,['mint']
+CC(=O)c1sc(C)nc1C,"['nutty', 'sulfurous']"
+COc1ccc(C)cc1C,['nutty']
+Cc1oc2ccccc2c1C,['pungent']
+Cc1ccc(C(C)O)cc1,"['nutty', 'mint']"
+CC(C)(O)C(C)(C)O,['mint']
+CC1CC(C)C(=O)C1=O,['nutty']
+CC1COC(C)O1,['buttery']
+CCc1nc(C)oc1C,['nutty']
+CCc1nc(C)c(C)s1,['nutty']
+CCC1N=C(C)C(C)S1,"['nutty', 'sulfurous']"
+CC1=CC(=O)C(C)O1,['buttery']
+Cc1cc(S)c(C)o1,['sulfurous']
+CC1=NC(CC(C)C)SC1C,"['nutty', 'sulfurous']"
+COC1=C(C)OC(C)C1=O,['nutty']
+CC1=NC(C)OC1,['nutty']
+CCCc1nc(C)c(C)s1,"['nutty', 'tropical']"
+Cc1nccnc1C,['nutty']
+Cc1cnc(C)cn1,['nutty']
+Cc1cncc(C)n1,['nutty']
+Cc1ccnc(C)c1,['mint']
+Cc1cccc(C)n1,['nutty']
+C=C(C)c1ccc(C)cc1,['nutty']
+CC1CCC(C)O1,['mint']
+CC1(C)CSSSS1,['sulfurous']
+Cc1cnc(C)s1,['nutty']
+Cc1ncsc1C,['nutty']
+CC1=NC(C)SC1,['nutty']
+Cc1coc(C(=O)c2cccs2)c1C,['sulfurous']
+Cc1ccc(C)s1,"['nutty', 'sulfurous']"
+Cc1cccc(C)c1S,['sulfurous']
+CC1SSC(C)S1,['sulfurous']
+C=Cc1sc(C)nc1C,['nutty']
+CCCCCSCCCCC,['sulfurous']
+CCCSCCC,['sulfurous']
+CCCSSSCCC,"['sulfurous', 'tropical', 'pungent']"
+C1CSCCS1,['sulfurous']
+CCCCCCCC1CCCC(=O)O1,"['tropical', 'buttery']"
+CCCCCCCC1CC=CC(=O)O1,['buttery']
+CCCCCCCCCCCCOC(=O)C(C)C,['buttery']
+CCCCCCCCCCCCS,['sulfurous']
+CC1CCC2CC1SC2(C)C,"['sulfurous', 'tropical', 'mint']"
+CC(C)=CC(=O)C=C1COC1=O,['mint']
+C=CCc1ccc(OC)cc1,['mint']
+CC(=O)S,"['sulfurous', 'tropical']"
+CCOc1ccccc1OC,['nutty']
+CCOc1ccc(OC)cc1,['nutty']
+CCOc1ccc2c(C)cc(=O)oc2c1,['nutty']
+CCOc1nccnc1C,['nutty']
+CCOCCC(=O)O,['pungent']
+CCOc1nccs1,['nutty']
+CCCCCC(CC(=O)OCC)OC(C)=O,['tropical']
+CCCCCCC(OC(C)=O)C(=O)OCC,['tropical']
+CCOC(=O)C(Cc1ccccc1)C(C)=O,['tropical']
+CCOC(=O)c1ccccc1,['mint']
+CCOC(=S)c1ccccc1,['sulfurous']
+CCCCSCC,['sulfurous']
+CCCC(=O)OCC,['buttery']
+CCCC(=O)C(C)(O)C(=O)OCC,['buttery']
+CCCCCCCCCC(=O)OCC,['nutty']
+CCOCc1ccco1,['buttery']
+CCSCc1ccco1,['sulfurous']
+CCOC(=O)CCSCc1ccco1,"['nutty', 'sulfurous']"
+CCCCCC(=O)OCC,['tropical']
+CCOC(=O)CC(C)O,['tropical']
+CCOC(=O)C(C)C,['pungent']
+CCOC(=O)CC(C)C,['buttery']
+CCOC(=O)C(C)O,['buttery']
+CCOC(=O)CCC(C)=O,['tropical']
+CCOC(=O)CS,['sulfurous']
+CCOC(=O)C(C)S,['sulfurous']
+CCOC(=O)CCS,"['sulfurous', 'tropical']"
+C=C(C)C(=O)OCC,['pungent']
+CCSC,['sulfurous']
+CCOC(=O)C(C)CC,['tropical']
+CCOC(=O)C(C)SSC,"['sulfurous', 'tropical']"
+CCOC(=O)C(C)(C)SC,"['sulfurous', 'tropical', 'mint']"
+C=C=CC(C)C(=O)OCC,['tropical']
+CCOC(=O)CC(C)CC,['tropical']
+C=CCC(C)C(=O)OCC,['tropical']
+CCOC(=O)CSC,"['sulfurous', 'tropical']"
+CCOC(=S)C(C)CC,"['sulfurous', 'tropical']"
+CCOC(=O)C(C)CSC,['tropical']
+CCOC(=O)CCSC,['sulfurous']
+CCCCCCCCC(=O)OCC,"['nutty', 'tropical']"
+CCCCC=CCC(=O)OCC,['tropical']
+CCSC(=O)CC,"['sulfurous', 'tropical']"
+CCCSSCC,['sulfurous']
+CCOC(=O)c1ccccc1O,['mint']
+CCSC(C)=O,['sulfurous']
+CCOC(=O)COc1ccc(C)cc1,['nutty']
+CCCCCCCCCCC(=O)OCC,['buttery']
+CCCCC(=O)OCC,['tropical']
+CCn1cccc1C(C)=O,['nutty']
+CCC(C=O)CC,['pungent']
+CCC(CC)C(=O)O,"['nutty', 'tropical']"
+CCc1ncc(C)nc1C,['nutty']
+CCc1nc(C)cnc1C,['nutty']
+CCc1ccco1,['nutty']
+CCCCC(CC)CS,"['sulfurous', 'tropical']"
+CCc1ccc(OC)cc1,['nutty']
+CCc1nccnc1OC,['nutty']
+CCc1cnc(OC)cn1,['nutty']
+CCC1OCC(C)O1,['pungent']
+CCc1cnc(C)cn1,['nutty']
+CCc1nccnc1C,['nutty']
+CCc1ccc(C)nc1,['nutty']
+CCc1nc(C)cs1,"['nutty', 'sulfurous']"
+CCc1csc(C)n1,['sulfurous']
+CCc1cnc(C)s1,['sulfurous']
+CCc1ccc(C)s1,['sulfurous']
+CCc1cnccn1,"['nutty', 'buttery']"
+CCc1cccnc1,['nutty']
+CCc1nccs1,['nutty']
+CCc1ccc(C=O)s1,['nutty']
+CCc1ccccc1S,['sulfurous']
+CCSCCCO,['sulfurous']
+C=CCc1ccc(O)c(OC)c1,['pungent']
+CC12CCC(C1)C(C)(C)C2=O,['mint']
+O=Cc1ccc[nH]1,"['nutty', 'pungent']"
+CCCC(=O)Oc1ccco1,['buttery']
+O=CSCc1ccco1,"['nutty', 'sulfurous']"
+SCc1ccco1,['sulfurous']
+CSCc1ccco1,"['sulfurous', 'pungent']"
+CCCCC(=O)OCc1ccco1,['tropical']
+CC(=O)SCc1ccco1,"['nutty', 'sulfurous']"
+CCC(=O)SCc1ccco1,['sulfurous']
+c1coc(Cn2cccc2)c1,['pungent']
+CC(=O)c1ccco1,['nutty']
+O=CCCCC=O,['pungent']
+CCCCCC(O)CCCC(=O)OCC(O)CO,"['tropical', 'buttery']"
+CCCCCCCC(O)CCCC(=O)OCC(O)CO,"['tropical', 'buttery']"
+CCCC1CCC(=O)O1,['nutty']
+CCCCCCC(OC)OC,['tropical']
+CCCCCCC=O,['nutty']
+CCCCC(=O)C(C)=O,['buttery']
+CCCCCCCS,['sulfurous']
+CCCCC(O)CC,['pungent']
+CCCC(O)CCC,['pungent']
+CCCC(=O)CCC,['pungent']
+C=CC(O)CCCC,['buttery']
+CCCCCC=COC(=O)CC(C)C,['tropical']
+CCCCCCCO,['pungent']
+CCCCCCCOC(=O)CCC,['tropical']
+CCCCCC(=O)OC(C)CCCCC,['tropical']
+CCCCCCCOC(=O)CCCCC,['tropical']
+CCCCCCCOC(=O)C(C)C,['tropical']
+CCCCCCCOC(=O)CCCCCCC,['tropical']
+CCCCCCCC1CC(C)OC1=O,['nutty']
+CCCCCCCc1ccco1,"['nutty', 'tropical']"
+CCCCCCCCCCCC1CCCC(=O)O1,['buttery']
+CCCCCCCCCCCCCCCCS,['sulfurous']
+CC1CCCC(=O)O1,['buttery']
+CCCC(=O)C(C)=O,['buttery']
+CCC(=O)C(=O)CC,"['nutty', 'buttery']"
+SCCCCCCS,['sulfurous']
+CCCCCCS,"['nutty', 'sulfurous']"
+CCCCCCO,['pungent']
+CCCCC(C)=O,['buttery']
+C=CCCC(C)=O,['pungent']
+CCCC=CC(=O)OC=CCCCC,['tropical']
+CCC=CCCOC(=O)CC(C)C,['tropical']
+CCCCCCC1COC(=O)CO1,"['nutty', 'buttery']"
+CCCCCCOC(=O)CCCCC,['tropical']
+CCCCCCOC(=O)C(C)C,['tropical']
+CCCCCCOC(=O)C(C)CC,['tropical']
+CCCCCCCCC(=O)OCCCCCC,['nutty']
+CCCCCCc1ccccn1,['nutty']
+CCCCCCc1cccs1,"['sulfurous', 'tropical']"
+CCOc1ccc(O)cc1,['nutty']
+CC(=O)c1ccccc1O,['tropical']
+O=Cc1ccc(O)cc1,['nutty']
+OCc1ccc(O)cc1,['nutty']
+O=C1CCCO1,"['nutty', 'buttery']"
+CC(CC=O)CCCC(C)(C)O,['tropical']
+CCCCCc1cccc(=O)o1,['buttery']
+CC1=C(O)C(=O)C(C)S1,['sulfurous']
+CCC(=O)C(O)CC,['buttery']
+O=Cc1ccc(CO)o1,['buttery']
+CC(=O)CC(C)(C)O,['mint']
+CCCC(=O)C(O)CCC,"['nutty', 'pungent', 'buttery']"
+O=C(O)C(=O)CO,['buttery']
+CCC(O)C(C)=O,['buttery']
+O=c1cccc[nH]1,['nutty']
+c1ccc2[nH]ccc2c1,['pungent']
+CC(C)CCO,['pungent']
+CC(C)CCOC(=O)CCCc1ccco1,['buttery']
+CCCCCC(=O)OCCC(C)C,['pungent']
+CC(C)CCOC(=O)CC(C)C,['tropical']
+CC(C)CCOC(=O)C(C)O,['nutty']
+CCCCCCCCC(=O)OCCC(C)C,['nutty']
+CCC(=O)OCCC(C)C,['tropical']
+C=C(C)C(=O)OCC(C)C,['pungent']
+CC(=O)OCC(C)C,['tropical']
+CCCCCC(=O)OCC(C)C,['tropical']
+CC(C)COC(=O)C(C)C,['tropical']
+CC(C)COC(=O)C(C)O,['buttery']
+CCC(C)C(=S)OCC(C)C,"['sulfurous', 'tropical']"
+CCC(=O)OCC(C)C,"['tropical', 'pungent']"
+Cc1nc(CC(C)C)sc1C,['nutty']
+CC(C)C=O,['pungent']
+CC(C)C(=O)O,['buttery']
+CCCCCOC(=O)CCSC,"['sulfurous', 'tropical']"
+CC1=CC(=O)CC(C)(C)C1,['mint']
+C=C(C)C=COC(=O)CCCCC,['tropical']
+C=CC1(C)CCC(C(=C)C)O1,['mint']
+C=C(C)c1cnccn1,['nutty']
+CCCC(=O)OC(C)C,['buttery']
+CC(C)OC=O,['tropical']
+CC(C)CC(=O)SC(C)C,"['sulfurous', 'tropical']"
+CC(C)=CC(=O)SC(C)C,"['sulfurous', 'tropical']"
+CCC(C)C(=O)OC(C)C,['tropical']
+CC(C)=CC(=O)OC(C)C,['mint']
+Cc1nc(C(C)C)sc1C,['nutty']
+COc1nccnc1C(C)C,['nutty']
+Cc1cnc(C(C)C)cn1,['nutty']
+Cc1csc(C(C)C)n1,"['nutty', 'sulfurous', 'tropical']"
+CC(C)c1cnccn1,"['nutty', 'mint']"
+C=C(C)C1CCC(C)CC1O,['mint']
+C=C(C)C1CCC(C)CC1=O,['mint']
+CC(C)CC(=O)O,"['tropical', 'pungent']"
+CC(=O)CCS,['sulfurous']
+CC(O)C(=O)O,['buttery']
+CC(=O)CCC(=O)O,['buttery']
+CC(C)=CCCC(C)(O)C1CO1,['mint']
+C=CC(C)(CCC=C(C)C)OC(=O)c1ccccc1,['tropical']
+CCC(=O)Oc1c(C)occc1=O,['tropical']
+Cc1occc(=O)c1OC(=O)C(C)C,['tropical']
+CCC1OC(=O)C(O)=C1C,['nutty']
+CCCCCC1CC=CC(=O)O1,['buttery']
+C=C(CO)C1CC=C(C)CC1,['mint']
+CC(=O)OC1=C(C(C)C)CCC(C)=C1,['mint']
+C=C(COC(C)=O)C1CC=C(C)CC1,['mint']
+CC1=CC(S)C(C(C)C)CC1,['tropical']
+CC1CCC(C(C)C)C(O)C1,['mint']
+CC1CCC(C(C)C)C(OC=O)C1,['mint']
+CC(O)C(C)S,['sulfurous']
+CC(=O)C(C)S,['sulfurous']
+CCCC(S)CCO,"['sulfurous', 'tropical']"
+CCCC(S)CCOC(C)=O,"['sulfurous', 'tropical']"
+CCCC(=O)OCCC(S)CCC,"['sulfurous', 'tropical']"
+CCCCCC(=O)OCCC(S)CCC,"['sulfurous', 'tropical']"
+CC(C)(S)CCO,['sulfurous']
+CCCC(CS)OC=O,"['sulfurous', 'tropical']"
+CC(C)(S)CCOC=O,"['sulfurous', 'tropical']"
+SCC1CC=CS1,['sulfurous']
+CC(CS)C(=O)O,"['sulfurous', 'tropical']"
+CCCSC(O)(CS)CCC,['sulfurous']
+SCc1cnccn1,['sulfurous']
+O=C(O)C(=O)CS,['sulfurous']
+CCC(S)C(C)=O,"['nutty', 'sulfurous']"
+CCC(=O)C(C)S,['sulfurous']
+CC1(S)CCC2CC1C2(C)C,"['sulfurous', 'tropical']"
+CC1(C)C2CCC(CS)C1C2,"['sulfurous', 'tropical']"
+CC1C(S)CC2CC1C2(C)C,"['sulfurous', 'tropical']"
+CC(S)C(=O)O,['sulfurous']
+O=C(O)CCS,['sulfurous']
+Sc1ccsc1,['sulfurous']
+CSC(=O)CC(C)C,['sulfurous']
+CSCCC(N)C(=O)O,['sulfurous']
+COCCC(C)(C)S,"['sulfurous', 'tropical', 'mint']"
+COC(C)(C)C,['mint']
+CCC(C)c1nccnc1OC,['nutty']
+COCc1cnccn1,['nutty']
+COc1nccnc1C,['nutty']
+COc1cncc(C)n1,['nutty']
+COc1cnc(C)cn1,['nutty']
+COc1cnccn1,['nutty']
+CCC(OC(C)=O)C(=O)OC,['tropical']
+CC(=O)OC1(C(C)=O)CCCCC1,['nutty']
+CCC(COC(C)=O)C(=O)OC,['tropical']
+C=CC(=O)OC,['pungent']
+CSC(=O)c1ccccc1,['sulfurous']
+CSSCc1ccccc1,['sulfurous']
+CCCCSC,['sulfurous']
+CCCC(=O)OC,"['pungent', 'buttery']"
+COC(=O)C1CCCCC1,['mint']
+CCCCCC1C(=O)CCC1CC(=O)OC,['tropical']
+COC(=S)CCc1ccco1,['sulfurous']
+CCCCCC(=S)OC,"['sulfurous', 'tropical']"
+CCC(C)C(=O)OC,['tropical']
+CCCC(C)C(=S)OC,"['sulfurous', 'tropical']"
+CCCC(C)C(=O)OC,['tropical']
+COC(=O)CSC,"['nutty', 'sulfurous', 'tropical']"
+CCC(SC)C(=O)OC,"['sulfurous', 'tropical']"
+COC(=O)CCCSC,"['nutty', 'sulfurous']"
+COC(=O)CCSC,"['sulfurous', 'tropical', 'pungent']"
+CCCCCCCCC(=O)OC,"['nutty', 'tropical']"
+CCCCC(=S)OC,['tropical']
+CSc1ccccc1,"['sulfurous', 'pungent']"
+O=C(CSCc1nc2ccccc2[nH]1)Nc1ccc2ccccc2c1,['tropical']
+COC(=O)c1ccccc1O,['mint']
+CSC(C)=O,['sulfurous']
+CCCC(=O)SC,['sulfurous']
+CCCCC(=O)OC,['nutty']
+CC(=O)c1cccn1C,['nutty']
+C=C(C)COC(=O)CCC,['pungent']
+COc1ccccc1C,['nutty']
+COc1ccc(C)cc1,['nutty']
+Cc1nc2ccccc2s1,"['nutty', 'sulfurous']"
+Cc1nc2ccccc2o1,['pungent']
+CCCC(=O)OC(C)c1ccccc1,['tropical']
+CCC(=O)OC(C)c1ccccc1,['tropical']
+Cc1ccc(-c2ccccc2)cc1,['mint']
+CC(C)=CC=O,"['nutty', 'pungent']"
+C=C(C)CCOC(C)=O,['tropical']
+CCCC(C)OC(C)=O,['nutty']
+CCC(C)COC(C)=O,['tropical']
+CCCC(=O)OCC(C)CC,['tropical']
+CCC(C)COC(=O)C(C)C,['tropical']
+CCC(C)COC(=O)C(C)CC,['tropical']
+CC(C)CCOC(=O)C(C)C,['tropical']
+CCC(=O)OCC(C)CC,['tropical']
+CCC(C)C=O,['nutty']
+CCC(C)C(=O)O,['pungent']
+CC1CCCCC1=O,['mint']
+CC1CCCC(=O)C1,['mint']
+CC1CCC(=O)CC1,['mint']
+CC1=CC(=O)CCC1,"['nutty', 'mint']"
+CCCC(=O)OC1=C(C)CCC1=O,"['nutty', 'buttery']"
+CCOCc1cnccn1,['nutty']
+Cc1ccoc1CS,['sulfurous']
+CC1OC=CC1=O,"['nutty', 'buttery']"
+CC1=CC(=O)CO1,"['nutty', 'buttery']"
+Cc1ccc(C=O)o1,['nutty']
+Cc1nccnc1SCc1ccco1,['nutty']
+CC(=O)Sc1ccoc1C,['sulfurous']
+CCC(=O)C(C)SSc1ccco1,['nutty']
+CC(=O)CCCC(C)C,['mint']
+CC(=O)C(=O)CC(C)C,['buttery']
+CC(=O)CCC(C)C,['mint']
+C=C(C)CCC(C)=O,['tropical']
+CC(O)C(C)SC(C)C(C)S,['sulfurous']
+COc1cnc(C)s1,['sulfurous']
+Cc1ccsc1C,['nutty']
+CSc1nccnc1C,['nutty']
+CSc1cnc(C)cn1,['nutty']
+CSc1cncc(C)n1,['nutty']
+CCCCCC1OC(=O)CC1C,['buttery']
+CC(=O)C(=O)C(C)C,['buttery']
+CC(C)CCC(=O)O,['pungent']
+CCCC(C)(C)O,"['mint', 'pungent']"
+CCC(C)CCO,['pungent']
+CC(C)CCCO,['nutty']
+CC(C)CC(C)O,['pungent']
+CC(=O)C=C(C)C,"['nutty', 'mint', 'pungent']"
+C=C(C)CC(C)=O,"['mint', 'pungent']"
+CC(C)C(=O)OC(C)(C)CCc1ccccc1,['tropical']
+CC1CCCCN1,['nutty']
+CC=CC1(C)CCOSC1(C)C,"['sulfurous', 'tropical']"
+CCC(=O)c1ccc(C)o1,['nutty']
+CCCC1CCOC(C)S1,"['sulfurous', 'tropical']"
+CCCc1nccnc1C,['nutty']
+Cc1cnccn1,['nutty']
+Cc1cccc2nccnc12,['nutty']
+CC1CCCO1,['mint']
+CC1OCCC1=O,"['nutty', 'buttery']"
+CC1OCCC1S,['sulfurous']
+CC1SCCC1=O,['sulfurous']
+Cc1cscn1,"['nutty', 'tropical']"
+CC(=O)OCCc1scnc1C,['nutty']
+Cc1ncsc1CCO,"['nutty', 'sulfurous']"
+CSOC(=O)C(C)OC(C)=O,"['sulfurous', 'tropical']"
+CCC(=O)OC(C)C(=O)OSC,"['sulfurous', 'tropical']"
+CSC(C)CC=O,['sulfurous']
+CSCCCC=O,['sulfurous']
+CSCCCCO,['sulfurous']
+CSCCC(C)=O,['sulfurous']
+CSC(C)CC(=O)O,"['sulfurous', 'tropical']"
+CCCC(CC=O)SC,['buttery']
+CCCC(CCO)SC,"['sulfurous', 'tropical', 'pungent']"
+CCCC(=O)OCSC,"['sulfurous', 'tropical']"
+CSC(C)(C)CC(C)=O,"['sulfurous', 'tropical']"
+CSCCC(=O)C(=O)O,['sulfurous']
+Cc1cccs1,"['sulfurous', 'pungent']"
+Cc1ccsc1,"['sulfurous', 'pungent']"
+CSc1ccccc1O,['sulfurous']
+CSC(C)C(=O)O,"['sulfurous', 'tropical']"
+CSCCC(=O)O,"['sulfurous', 'tropical']"
+CSCCCOC(C)=O,['sulfurous']
+CCCC(=O)OCCCSC,"['sulfurous', 'tropical']"
+CSCCCN=C=S,"['sulfurous', 'pungent']"
+CSCCCOC(=O)CC(C)C,"['sulfurous', 'tropical']"
+CSCCCN,['sulfurous']
+CCCC(C)C(=O)O,['pungent']
+CC1=C2CCC(C)CC2OC1=O,['mint']
+CC1(C)C2CCC(CO)C1C2,['mint']
+CC1(C)C2CC=C(C=O)C1C2,['mint']
+CC1(C)C2CC=C(CO)C1C2,['mint']
+c1ccc2ccccc2c1,['pungent']
+Sc1ccc2ccccc2c1,['sulfurous']
+CC(C)=CC1CC(C)=CCO1,['mint']
+CCC=CCCC=CCO,['nutty']
+CCCCCCCCC(=O)O,['nutty']
+C=CC(=O)CCCCCC,['pungent']
+CCCCCCCCCOC(=O)CC(C)C,['nutty']
+CCCC1CCCC(=O)O1,['tropical']
+CCCC(=O)C(=O)CCC,['buttery']
+CCCCCC(O)CC,"['nutty', 'mint']"
+C=CC(CCCCC)OC(=O)CCC,['buttery']
+CCCCCC(CC)OC(C)=O,['mint']
+COC(CC(C)=O)OC,['nutty']
+CCCCC(=O)c1cccs1,['nutty']
+C=CCCC(=O)O,['buttery']
+C=CC(O)CC,"['tropical', 'pungent']"
+C=CC(=O)CC,['pungent']
+CCCCCc1cccs1,"['sulfurous', 'tropical']"
+C=C(C)C1CC=C(C=O)CC1,"['mint', 'pungent']"
+CC1=CCC(C(C)C)C=C1,['mint']
+CC(=O)OCCc1ccccc1,['tropical']
+S=C=NCCc1ccccc1,"['sulfurous', 'pungent']"
+CCC(C)C(=O)OCCc1ccccc1,['tropical']
+CC(C)C(=O)OCCOc1ccccc1,['tropical']
+CCCC(=O)c1ccccc1,"['nutty', 'buttery']"
+CCOC(=O)c1ccoc1-c1ccccc1,['tropical']
+SCCc1ccccc1,"['sulfurous', 'tropical']"
+CC(=O)C(=O)c1ccccc1,['buttery']
+CC(C)C(=O)OCCCc1ccccc1,['tropical']
+c1ccc(CCCC2CCCO2)cc1,['nutty']
+CC1=CCC2CC1C2(C)C,['mint']
+C=C1CCC2CC1C2(C)C,['mint']
+C=C1C(O)CC2CC1C2(C)C,['mint']
+CC(C)=C1CCC2(C)OC2C1=O,['mint']
+CC1=CC(=O)C(=C(C)C)CC1,['mint']
+CC1=CC(O)C(C(C)C)CC1,['mint']
+O=Cc1ccc2c(c1)OCO2,['tropical']
+CC(C)C(=O)OCc1ccc2c(c1)OCO2,['tropical']
+CC(C)=CCOC(=O)C(C)C,['buttery']
+CC(=O)SCC=C(C)C,"['sulfurous', 'tropical']"
+CC(C)=CCOC(=S)C(C)C,"['sulfurous', 'tropical']"
+CCC(=O)c1nccs1,['nutty']
+CCCOC(C)=O,['pungent']
+CCCOC(=O)c1ccccc1,['nutty']
+CCCCCC(=O)OCCC,['tropical']
+CCCOC(=O)C(C)C,['tropical']
+CCCOC(=O)CC,['pungent']
+CCCSC(C)=O,['sulfurous']
+CCCc1ccco1,['buttery']
+CCCc1cnccn1,['nutty']
+CCCC1NCCS1,['pungent']
+SCCc1cnccn1,['sulfurous']
+SCc1ccccn1,['sulfurous']
+c1cc[nH]c1,['nutty']
+C1=NCCC1,['buttery']
+C=C(C)CCCC(C)CCOC(=O)CCC,['tropical']
+C=C(C)CCCC(C)CCOC(=O)C(C)C,['tropical']
+CC(C)=CCc1occc1C,['mint']
+O=Cc1ccccc1O,['pungent']
+C=Cc1ccccc1,['pungent']
+CC1=CCC(C(C)C)=CC1,['tropical']
+C=C(C)C1CCC(C)(O)CC1,['pungent']
+CCC(=O)OC(C)(C)C1CC=C(C)CC1,['tropical']
+CCCCCCCCCC1CCCC(=O)O1,['buttery']
+CC(=O)OCC1CCCO1,['nutty']
+CCCC(=O)OCC1CCCO1,['tropical']
+CCC(=O)OCC1CCCO1,"['nutty', 'tropical']"
+c1cnc2c(n1)CCCC2,['nutty']
+C1CCSC1,['sulfurous']
+Cc1nc(C)c(C)nc1C,['nutty']
+Sc1cccs1,['sulfurous']
+COc1ccccc1S,['sulfurous']
+CC1CCC(C(C)(C)S)C(=O)C1,"['sulfurous', 'tropical', 'mint']"
+c1ccsc1,"['sulfurous', 'pungent']"
+O=Cc1cccs1,"['nutty', 'sulfurous']"
+SCc1cccs1,['sulfurous']
+Cc1ccccc1S,['sulfurous']
+CCCCCCCCCCCC(=O)Oc1ccc(C)cc1,['nutty']
+Cc1ccccc1OC(=O)c1ccccc1O,['mint']
+Cc1ccc(CC=O)cc1,['nutty']
+CCCCCCCCC1CCCC(=O)O1,['buttery']
+CCCCCCCCCCCC(C)=O,['nutty']
+CC1CC(O)CC(C)(C)C1,['mint']
+CC1CCCC(C)(C)C1=O,['pungent']
+CC1CC(=O)CC(C)(C)C1,['mint']
+CC(CCO)CC(C)(C)C,['mint']
+Cc1cnc(C)c(C)n1,['nutty']
+Cc1nc(C)c(C)s1,['nutty']
+CCCCOCc1ccc(O)c(OC)c1,['pungent']
+CC1=CC(O)C2CC1C2(C)C,['mint']
+C=Cc1ccccc1OC,['nutty']
+C=Cc1cnccn1,['nutty']
+CCCCC1OC(=O)CC1C,['nutty']
+CC(=S)OC1(C)OCCC1C,['sulfurous']
+CCOC(=S)C(CC)C(C)=O,"['sulfurous', 'tropical']"
+CCCC=CC(=O)OCC,['tropical']
+CCOC(=O)C(S)CC,['tropical']
+CCCCCC(C)OC(=O)CCC,['tropical']
+CCCCC(=O)CCO,['pungent']
+CC(S)C(C)CO,['sulfurous']
+CC(=O)CC(C)(C)S,"['sulfurous', 'tropical']"
+CCCCCCC1OC(=O)CC1C,"['tropical', 'buttery']"
+CCCCCCC(CC)OC(C)=O,['tropical']
+CCCCCC(CC)OC=O,['tropical']
+C=CCCCOC(C)=O,['sulfurous']
+CCC(=O)c1occc1C,['nutty']
+Cc1cnc(SCc2ccco2)cn1,"['nutty', 'sulfurous']"
+CC1=C(O)C(=O)C(C(C)C)CC1,['mint']
+CC1=CC(=O)C(C(C)C)CC1,"['mint', 'pungent']"
+CC(=O)CCC=C(C)CCC=C(C)C,['tropical']
+CC(=O)Sc1cc(C)oc1C,['tropical']
+CCOC(=O)C(CC)COC(C)=O,['tropical']
+CCCC=CC=O,['pungent']
+C=CC1(C)CCC(=O)O1,['mint']
+CC1CCC(C(C)(C)O)C(O)C1,['mint']
+COC1CC(C)CCC1C(C)C,['mint']
+CCCCCC(=O)C(C)=O,['buttery']
+CC(S)c1ccccc1,"['sulfurous', 'tropical']"
+CCC(=O)N1C=CCC1,['nutty']
+CCCc1ccccn1,['nutty']
+CC=C(C)C(=O)OCc1ccccc1,['nutty']
+CC(C)(C)CC(C)(S)CC(C)(C)C,['sulfurous']
+CC1CC(=O)CO1,['buttery']
+CC(=O)c1cnc(C)cn1,['nutty']
+CC(=O)Cc1cnccn1,['nutty']
+CC1=NCCS1,"['nutty', 'sulfurous']"
+C=CCOC(=S)CCCCC,['tropical']
+Cc1cnc(CC(C)C)c(C)n1,['mint']
+CCCCCCOC(=O)C(S)CC,['tropical']
+CC(=O)CC(C)S,"['sulfurous', 'tropical', 'pungent']"
+CCCCC(O)CS,['sulfurous']
+CCC(C)C(=S)OC,"['sulfurous', 'tropical']"
+CCC(S)C(=O)OC,['tropical']
+CCC=C(C)SC,['sulfurous']
+CSC(C)C(C)=O,"['sulfurous', 'tropical']"
+CCCC(=O)CSC,['sulfurous']
+CCCCCC(C=O)SC,"['sulfurous', 'tropical']"
+CSCc1cccs1,['sulfurous']
+CSCCOC(C)=O,"['sulfurous', 'tropical']"
+CC(=O)C1CCCC(C)(C)C1,['mint']
+Cn1cccc1C=O,['nutty']
+CCCCCC1C=CC(=O)O1,['mint']
+CCCOC(=O)C(C)S,['tropical']
+C=CCCCCN=C=S,['pungent']
+CC(C)CCN=C=S,['pungent']
+CSCCCCCCN=C=S,['pungent']
+C=CCCCN=C=S,['pungent']
+CC(OCc1ccco1)SCc1ccco1,['sulfurous']
+C=CC(C)(CCC=C(C)C)OC(C)OCC,['tropical']
+COC(C)(OC)C(C)O,['buttery']
+CC1COC(C)(C(C)O)O1,['buttery']
+CC(=O)c1ccccc1C,['nutty']
+COC(=O)C(C)CS,['tropical']
+CCCC1C=CC(=O)O1,"['nutty', 'buttery']"
+CCCCCC=CC=CC=O,['nutty']
+CCC(C=O)CS,['pungent']
+CCOc1ccc(C)cc1,['pungent']
+CCOC(C)c1cnccn1,['nutty']
+CCOc1nccnc1C(C)C,['nutty']
+CCC1(C)OCC(C)O1,['mint']
+CC(C)CCOCCc1ccccc1,['tropical']
+CC(C)CC1OCC(C)O1,"['tropical', 'buttery']"
+C=C(C)C1CCC2(C)OC2C1,['mint']
+COc1cccc(C)c1,"['nutty', 'pungent']"
+CCOC(CCSC)OCC,"['sulfurous', 'pungent']"
+CSCCC1OCC(C)O1,['sulfurous']
+CCCCOC(CCCC)OCCCC,['nutty']
+CCCCC1OCC(C)O1,['nutty']
+C=CCOC(=O)C(C)CC,['tropical']
+C=CCOC(=O)CC(C)=O,['tropical']
+C=CCOC(=O)C(C)C,['tropical']
+C=CCOC(=O)C(C)(C)C,['tropical']
+CCCCCCCCC(=O)OCCCCC,['nutty']
+CCCCOC(=S)C(C)C,['sulfurous']
+C=C(C)C1CC=C(C)C(OC(=O)CCC)C1,['mint']
+C=C(C)C1CC=C(C)C(OC=O)C1,['mint']
+CCC(=O)OC1=C(C)CCC1=O,"['nutty', 'buttery']"
+C=CC(C)(C)OC(C)=O,['tropical']
+CCCCCCCCCCCCOC(=O)C(C)O,['buttery']
+CCOC(=O)C(CC)CC,['buttery']
+CCOC(=O)C(C)SC,['tropical']
+CCOC(=O)C(CC)OC(C)=O,['mint']
+CCOC(=O)CC1(C)OCCO1,['tropical']
+CC=CC(=S)OCC,['sulfurous']
+CCOC(=O)C(C)(O)C(=O)CC,['buttery']
+CCCCC(CC)COC(=O)CCS,"['sulfurous', 'tropical']"
+O=COCc1ccco1,['nutty']
+CCCCCCCOC(=O)C(C)(O)C(=O)CCC,['buttery']
+CCCCC=COC(=O)c1ccco1,['tropical']
+CCCCC=COC(=O)C(C)CCC,['tropical']
+CCCCC=COC(=O)CCC,['tropical']
+C=CCCCCCCCCC(=O)OCC(C)C,['buttery']
+CC(C)OC(=O)C(C)O,['buttery']
+CC(=O)OC1(C(C)C)CCCCC1,['mint']
+CCCC(=O)OC(C)(OC(=O)CCC)C(C)=O,['buttery']
+CCCCCC(CC(=O)OC)OC(C)=O,['tropical']
+CCCCCCCCC(OC(C)=O)C(=O)OC,['buttery']
+CCCCCCCCCCC(OC(C)=O)C(=O)OC,['buttery']
+CCCCCCCCCCC(OC=O)C(=O)OC,['buttery']
+CC(=O)OCCCCC(C)C,['mint']
+CC(C)CCCOC(=O)CC(C)C,['pungent']
+CCCCCCCC=COC(=O)CCC,['tropical']
+CCCCCCCC=COC(=O)CC(C)C,['tropical']
+CCCCCCCCCOC(=O)CCCCC,['nutty']
+CC(C)C(=O)Oc1ccccc1,['pungent']
+CCCOC(=O)C(C)(C)C,['tropical']
+CCCC(=O)OCC(C)OC(=O)CCC,['buttery']
+CC(=S)Oc1ccccc1C,['sulfurous']
+CCCC(=O)OCCc1scnc1C,['nutty']
+CCCCCC(=O)OCCc1scnc1C,['nutty']
+CCC(C)(C)OC(C)=O,['mint']
+CC(S)C(=O)OCC1CCCO1,"['sulfurous', 'tropical']"
+CC(=O)OC1CC(C)CC(C)(C)C1,['mint']
+CCCC(=O)OC1CC(C)CC(C)(C)C1,['mint']
+CC(=O)c1ccc(C)s1,['nutty']
+O=C1CCCCCC1,['mint']
+O=C1CCCC1C1CCCC1,['mint']
+CC(=O)c1sccc1C,['nutty']
+C=C(C)C(C)=O,['pungent']
+CC(C)(C)C1CCC(=O)CC1,['mint']
+CCC(C)C(O)C(=O)O,['buttery']
+CC(C)(C)C(=O)O,['pungent']
+O=C(O)CC(S)C(=O)O,['sulfurous']
+C=C(C)C1C=CC(C)(O)CC1,['mint']
+CC(C)(C)C1CCC(O)CC1,['mint']
+CCCCC=CC=CC=O,"['nutty', 'pungent']"
+Cc1ccccc1SSc1ccccc1C,['sulfurous']
+CCSCCO,"['sulfurous', 'tropical']"
+CCc1scnc1C,['nutty']
+Cc1nc(CC(C)C)cs1,"['nutty', 'tropical']"
+CCCCCCCCSC,"['sulfurous', 'tropical']"
+CSSc1ccccc1C,['sulfurous']
+Cc1cncs1,"['nutty', 'sulfurous']"
+CCc1nccnc1SC,['nutty']
+Cc1ccc(CS)cc1,['sulfurous']
+C=CCCCC1CCCC(=O)O1,"['nutty', 'buttery']"
+CSCCCCN=C=S,['pungent']
+CSCCCCCN=C=S,['pungent']
+CCCCOC(=O)C(C)S,"['sulfurous', 'tropical']"
+CCCCCC=CC(=O)OCCCC,['tropical']
+CCC=CC(=O)OC=CCCCC,['tropical']
+CCCCCCCC=CC(=O)OC,['tropical']
+C=CCCCCCCCC(C)=O,['tropical']
+C=C(C)c1ccnc(C(C)=O)c1,['mint']
+O=C1C=CCCC1,['mint']
+CCC(=O)C(C)C,['mint']
+CCc1ccc(C(C)=O)cc1,['pungent']
+C=C(C)C1CC(=O)C2(C)OC2C1,['mint']
+C=C1C(=O)CC2CC1C2(C)C,['mint']
+CCCCCCCC=CC(=O)O,['buttery']
+CC1CCC(CO)C(C)C1,['mint']
+CC(C)(C)C1CCCCC1O,['mint']
+CSc1nc2ccccc2s1,['sulfurous']
+CC1CCCS1,['sulfurous']
+c1ccc2sccc2c1,['sulfurous']
+S=c1[nH]c2ccccc2s1,['sulfurous']
+CCCCCCC(C)(C)S,['sulfurous']
+COc1cccc(C=O)c1O,['pungent']
+CC1C=CC(=O)O1,['nutty']
+O=C1CCCS1,['sulfurous']
+CCCCCCCCC(S)C=O,['tropical']
+CCOC(=O)C(C)(O)CC,['nutty']
+CCCC(O)SCC,"['nutty', 'sulfurous']"
+CCCCCC=CC(C)=O,['nutty']
+CCCC(CS)OC(C)=O,['tropical']
+CCOC(=O)C(CC)CS,['tropical']
+COC(=O)CCCCC(=O)OC,['nutty']
+CCOC(C)OC(C)C,"['nutty', 'pungent']"
+CCc1cnc(C)c(C)n1,['nutty']
+CCCCCC(=O)OCCCSC,"['sulfurous', 'tropical']"
+CCOC(=O)CC(C)SCC,"['sulfurous', 'tropical']"
+CCC(C)(S)CC(C)=O,['sulfurous']
+CCCCCCCC(=O)CCc1ccc(O)c(OC)c1,['pungent']
+CCOc1cncc(C)n1,['nutty']
+CC(O)C(C)CS,['sulfurous']
+CCOC(=O)C(C)CS,"['sulfurous', 'tropical']"
+CCCC(CCOC)[SH]=C(O)OCC,"['sulfurous', 'tropical']"
+CCC(=O)CC(C)(C)S,"['sulfurous', 'tropical']"
+CC(C)=CCOC(=S)CC(C)C,"['sulfurous', 'tropical']"
+O=C1C=CCCCCCCCCCO1,['mint']
+CCCCCCCCC(=O)C(=O)OC(=C(C)C)C(O)CO,['buttery']
+COC(=O)C(C)(C)O,['nutty']
+CC(C)CC(C)(O)C1CCCS1,"['sulfurous', 'tropical']"
