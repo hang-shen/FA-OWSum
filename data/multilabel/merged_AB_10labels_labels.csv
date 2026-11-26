@@ -1,0 +1,1281 @@
+smiles,descriptor
+C/C(=C\CO)CCC[C@H](C)CCC[C@H](C)CCCC(C)C,['balsamic']
+C/C(C=O)=C/c1ccccc1,['balsamic']
+C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,"['earthy', 'balsamic']"
+C/C=C(/C)C(=O)O,['caramellic']
+C/C=C(/C)C(=O)OCC(C)C,['winey']
+C/C=C(/C)C(=O)OCC/C=C/CC,['earthy']
+C/C=C(/C)C(=O)OCCC(C)C,['winey']
+C/C=C(/C)C(=O)OCCCC,"['winey', 'rose', 'caramellic']"
+C/C=C(/C)C(=O)OCCCCC,['winey']
+C/C=C(\C)C(=O)OC/C=C/c1ccccc1,['balsamic']
+C/C=C(\C)C(=O)OCC,['caramellic']
+C/C=C(\C)C(=O)OCCC(C)C,['winey']
+C/C=C(\C)C(=O)OCCC(C)CCC=C(C)C,['rose']
+C/C=C(\C)C(=O)OCCCC,"['winey', 'rose', 'caramellic']"
+C/C=C(\C)C(=O)OCCc1ccccc1,['rose']
+C/C=C(\C)C(=O)OCc1ccccc1,"['rose', 'earthy', 'balsamic']"
+C/C=C(\C)CO,"['winey', 'earthy']"
+C/C=C(\OCC)C(=O)OCC,['caramellic']
+C/C=C/C(=O)C1=C(C)C=CCC1(C)C,"['rose', 'earthy']"
+C/C=C/C(=O)C1C(C)=CCCC1(C)C,['rose']
+C/C=C/C(=O)C1C(C)C=CCC1(C)C,['rose']
+C/C=C/C(=O)C1CCC(C)(C)C=C1C,['rose']
+C/C=C/C(=O)CCC,"['earthy', 'citrus']"
+C/C=C/C(=O)CCCC,"['earthy', 'pineapple']"
+C/C=C/C(=O)CCCCC,['earthy']
+C/C=C/C(=O)O,"['caramellic', 'burnt']"
+C/C=C/C(=O)OC/C=C(/C)CCC=C(C)C,"['rose', 'caramellic']"
+C/C=C/C(=O)OC/C=C(\C)CCC=C(C)C,"['rose', 'caramellic']"
+C/C=C/C(=O)OCC,"['caramellic', 'pineapple']"
+C/C=C/C(=O)OCCC,['caramellic']
+C/C=C/C(=O)OCCc1ccccc1,"['rose', 'musty']"
+C/C=C/C(=O)[C@@H]1[C@@H](C)C=CCC1(C)C,['rose']
+C/C=C/C=C/C(=O)OCCC(C)C,['winey']
+C/C=C/C=C/CO,['musty']
+C/C=C/C=C/COC(C)=O,"['winey', 'pineapple']"
+C/C=C/C=C\COC(=O)CC,"['winey', 'pineapple']"
+C/C=C/CCCO,['musty']
+C/C=C/c1ccc(OC(C)=O)c(OC)c1,['balsamic']
+C/C=C/c1ccc(OCC)c(OC)c1,['balsamic']
+C/C=C/c1ccc(OCCCCC)c(OC)c1,['balsamic']
+C/C=C\CCCO,['musty']
+C/C=C\c1ccc(OCc2ccccc2)c(OC)c1,['balsamic']
+C1CCC(SSC2CCCCC2)CC1,['musty']
+C1CCSC1,['burnt']
+C=C(C)C1(O)CC=C(C)CC1,"['earthy', 'musty']"
+C=C(C)C1C=CC(C)(O)CC1,['musty']
+C=C(C)C1CC=C(C)CC1,"['citrus', 'phenolic']"
+C=C(C)C1CC=C(C=O)CC1,['citrus']
+C=C(C)C1CC=C(CO)CC1,['citrus']
+C=C(C)C1CC=C(COC(C)=O)CC1,['phenolic']
+C=C(C)C1CCC(C)C(O)C1,['musty']
+C=C(C)C1CCC2(C)OC2C1,['citrus']
+C=C(C)C=COC(=O)CCCCC,['pineapple']
+C=C(C)C=COC(=O)c1ccccc1,['balsamic']
+C=C(C)CC(C)=O,['burnt']
+C=C(C)CCCC(C)CCOC(=O)C(C)C,['rose']
+C=C(C)CCCC(C)CCOC(=O)CC,['rose']
+C=C(C)CCCC(C)CCOC(=O)CC(C)C,['rose']
+C=C(C)CCCC(C)CCOC(=O)CCC,['rose']
+C=C(C)CCCC(C)CCOC(=O)Cc1ccccc1,['rose']
+C=C(C)CCCC(C)CCOC(C)=O,"['rose', 'citrus']"
+C=C(C)CCCC(C)CCOC=O,['rose']
+C=C(C)CCC[C@H](C)CCO,"['rose', 'citrus']"
+C=C(C)COC(=O)C(C)C,['pineapple']
+C=C(C)[C@H](CO)CC=C(C)C,"['rose', 'citrus']"
+C=C(C)c1ccc(C)cc1,"['citrus', 'musty', 'phenolic']"
+C=C(C)c1cnccn1,"['caramellic', 'burnt']"
+C=C(CCC=C(C)C)[C@H]1CC=C(C)CC1,"['balsamic', 'citrus']"
+C=C(CCCCC)C(C)=O,['musty']
+C=C(CO)C1CC=C(C)CC1,['citrus']
+C=C/C(C)=C/C/C=C(\C)CCC=C(C)C,['citrus']
+C=C1C2CCC(C2)C1(C)C,['citrus']
+C=C1CCC2(C(C)C)CC12,['citrus']
+C=CC(=C)CCCC(C)(C)O,['citrus']
+C=CC(=C)CCCC(C)(C)OC(C)=O,['citrus']
+C=CC(=O)CCCCC,"['earthy', 'musty']"
+C=CC(C)(C)O,['earthy']
+C=CC(C)(C=O)CC=C(C)C,['citrus']
+C=CC(C)(CCC=C(C)C)OC(=O)/C=C/c1ccccc1,['balsamic']
+C=CC(C)(CCC=C(C)C)OC(=O)C(C)C,"['rose', 'citrus']"
+C=CC(C)(CCC=C(C)C)OC(=O)CC,['rose']
+C=CC(C)(CCC=C(C)C)OC(=O)CCC,"['citrus', 'pineapple']"
+C=CC(C)(CCC=C(C)C)OC(=O)CCCC,['citrus']
+C=CC(C)(CCC=C(C)C)OC(=O)CCCCC,['pineapple']
+C=CC(C)(CCC=C(C)C)OC(=O)Cc1ccccc1,['rose']
+C=CC(C)(CCC=C(C)C)OC(=O)c1ccccc1,['citrus']
+C=CC(C)(CCC=C(C)C)OC(C)=O,['citrus']
+C=CC(C)(CCC=C(C)C)OC=O,['citrus']
+C=CC(C)(CCC=C(C)C)OCC,['citrus']
+C=CC(C)(O)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,"['rose', 'balsamic']"
+C=CC(C)(O)CCC=C(C)C,"['rose', 'citrus']"
+C=CC(C)CCCC(C)(C)O,['citrus']
+C=CC(C)CCCC(C)(C)OC(C)=O,['citrus']
+C=CC(CCCCC)OC(=O)CCC,['earthy']
+C=CC(O)CCCC,['earthy']
+C=CC(O)CCCCC,"['earthy', 'musty']"
+C=CC(O)CCCCCC,['earthy']
+C=CC(O)CCCCCCC,"['earthy', 'citrus']"
+C=CC(OC(=O)CC(C)C)C(C)CC=C(C)C,['citrus']
+C=CC1(C)CCC(C(=C)C)O1,['phenolic']
+C=CC1(C)CCC(C(C)(C)O)O1,['earthy']
+C=CC1(C)CCC(O)C(C)(C)O1,['earthy']
+C=CC=CC=CC=CCCC,['earthy']
+C=CCC(C)C(=O)OCC,['pineapple']
+C=CCCC(=O)O,['caramellic']
+C=CCCC(C)=O,['burnt']
+C=CCCCCCCC(C)=O,['pineapple']
+C=CCCCCCCCC(C)=O,['citrus']
+C=CCCCCCCCC=O,"['rose', 'citrus']"
+C=CCCCCCCCCC(=O)OC,"['winey', 'rose', 'earthy', 'citrus']"
+C=CCCCCCCCCC(=O)OCC,['winey']
+C=CCCCCCCCCC(=O)OCC(C)C,['winey']
+C=CCCCCCCCCC(=O)OCC=C,['pineapple']
+C=CCCCCCCCCC(=O)OCCCC,['winey']
+C=CCCCCCCCCC=O,"['rose', 'citrus']"
+C=CCCCCCCCCCC(=O)O,['citrus']
+C=CCCCCCCCCCO,"['rose', 'citrus']"
+C=CCCCCCCCCCOC(C)=O,['rose']
+C=CCCCCCCCCO,['rose']
+C=CCCCCCCCCOC(C)=O,['rose']
+C=CCOC(=O)/C(C)=C/C,['earthy']
+C=CCOC(=O)/C=C/c1ccccc1,"['balsamic', 'pineapple']"
+C=CCOC(=O)C(C)=O,"['caramellic', 'burnt']"
+C=CCOC(=O)C(C)CC,['pineapple']
+C=CCOC(=O)CC(C)C,"['winey', 'pineapple']"
+C=CCOC(=O)CC1CCCCC1,['pineapple']
+C=CCOC(=O)CCC,['pineapple']
+C=CCOC(=O)CCC(C)=O,['burnt']
+C=CCOC(=O)CCC(C)C,['pineapple']
+C=CCOC(=O)CCC1CCCCC1,['pineapple']
+C=CCOC(=O)CCCC,"['winey', 'pineapple']"
+C=CCOC(=O)CCCC1CCCCC1,['pineapple']
+C=CCOC(=O)CCCCC,"['winey', 'pineapple']"
+C=CCOC(=O)CCCCC1CCCCC1,['pineapple']
+C=CCOC(=O)CCCCCC,['pineapple']
+C=CCOC(=O)CCCCCCC,"['winey', 'pineapple']"
+C=CCOC(=O)CCCCCCCC,"['winey', 'pineapple']"
+C=CCOC(=O)CCCCCCCCC,"['winey', 'pineapple']"
+C=CCOC(=O)COC1CCCCC1,['pineapple']
+C=CCOC(=O)COCCC(C)C,['pineapple']
+C=CCOC(=O)COc1ccccc1,['pineapple']
+C=CCOC(=O)Cc1ccccc1,['pineapple']
+C=CCOC(=O)c1ccco1,['caramellic']
+C=CCOC(=S)CCCCC,['pineapple']
+C=CCOC(C)=O,['winey']
+C=CCc1cc(OC)c(O)c(OC)c1,"['burnt', 'phenolic']"
+C=CCc1cc(OC)c2c(c1OC)OCO2,['phenolic']
+C=CCc1ccc(O)c(OC)c1,['phenolic']
+C=CCc1ccc(O)cc1,['phenolic']
+C=CCc1ccc(OC(=O)c2ccccc2)c(OC)c1,['balsamic']
+C=CCc1ccc(OC(C)=O)c(OC)c1,['balsamic']
+C=CCc1ccc(OC)c(OC)c1,"['musty', 'phenolic']"
+C=CCc1ccc(OC)cc1,['phenolic']
+C=CCc1ccc(OCC)c(OC)c1,['musty']
+C=CCc1cccc(OC)c1O,['phenolic']
+C=Cc1cc(OC)c(O)c(OC)c1,['phenolic']
+C=Cc1ccc(O)c(OC)c1,['phenolic']
+C=Cc1ccc(O)cc1,"['musty', 'phenolic']"
+C=Cc1ccc(OC)c(OC)c1,"['earthy', 'phenolic']"
+C=Cc1ccc(OC)cc1,['rose']
+C=Cc1ccccc1,['balsamic']
+C=Cc1ccccc1OC,"['earthy', 'musty']"
+C=Cc1cnccn1,['burnt']
+CC(=O)/C(C)=C\c1ccccc1,['caramellic']
+CC(=O)/C=C(\C)CCC=C(C)C,"['rose', 'citrus']"
+CC(=O)/C=C/CCC(C)C,['earthy']
+CC(=O)C(=O)OCC(C)C,['caramellic']
+CC(=O)C(=O)OCCC(C)C,"['caramellic', 'balsamic']"
+CC(=O)C(=O)c1ccc(C)o1,"['caramellic', 'burnt']"
+CC(=O)C(C)C(C)=O,['burnt']
+CC(=O)C1=NCCCC1,['caramellic']
+CC(=O)C1CCCC1=O,"['caramellic', 'burnt']"
+CC(=O)C=C(C)C,"['earthy', 'musty']"
+CC(=O)CC(=O)OC(C)(C)C,['caramellic']
+CC(=O)CC(=O)OC(C)C,['caramellic']
+CC(=O)CC(=O)OC1CCCCC1,['caramellic']
+CC(=O)CC(=O)OCC(C)C,['winey']
+CC(=O)CC(=O)OCCC(C)C,['winey']
+CC(=O)CC(=O)OCc1ccccc1,['balsamic']
+CC(=O)CC(=O)c1ccccc1,['balsamic']
+CC(=O)CC(C)SCc1ccco1,['burnt']
+CC(=O)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,['winey']
+CC(=O)CC/C=C(\C)CCC=C(C)C,['rose']
+CC(=O)CCC(=O)O,['caramellic']
+CC(=O)CCC(=O)OCC(C)C,['caramellic']
+CC(=O)CCC(=O)OCCC(C)C,"['winey', 'caramellic']"
+CC(=O)CCC(=O)OCc1ccccc1,['caramellic']
+CC(=O)CCC1=C(C)C=CCC1(C)C,['rose']
+CC(=O)CCC=C(C)C,"['citrus', 'musty']"
+CC(=O)CCC=C(C)CCC=C(C)C,['rose']
+CC(=O)CCCC(C)CCC=C(C)C,"['rose', 'balsamic']"
+CC(=O)CCCC(C)CCCC(C)C,['musty']
+CC(=O)CCO,['caramellic']
+CC(=O)CCc1ccco1,['caramellic']
+CC(=O)CCc1nccs1,['burnt']
+CC(=O)CO,"['winey', 'caramellic']"
+CC(=O)COC(C)=O,['caramellic']
+CC(=O)CSCc1ccco1,['burnt']
+CC(=O)Cc1ccc[nH]1,"['earthy', 'burnt']"
+CC(=O)Cc1ccco1,['caramellic']
+CC(=O)OC(C)(C)C1CC=C(C)CC1,['citrus']
+CC(=O)OC(C)(C)C1CCC(C)CC1,['citrus']
+CC(=O)OC(C)(C)CCc1ccccc1,"['rose', 'balsamic']"
+CC(=O)OC(C)(C)Cc1ccccc1,['rose']
+CC(=O)OC(C)CCC=C(C)C,['earthy']
+CC(=O)OC(O)c1ccccc1,['phenolic']
+CC(=O)OC/C=C(\C)CC/C=C(\C)CCC=C(C)C,"['rose', 'citrus']"
+CC(=O)OC/C=C(\C)CCC=C(C)C,"['rose', 'citrus']"
+CC(=O)OC/C=C/c1ccccc1,['balsamic']
+CC(=O)OC1=C(C)CCC1=O,['caramellic']
+CC(=O)OC1=C(C)OC(C)C1=O,"['caramellic', 'burnt']"
+CC(=O)OC1CC(C)CC(C)(C)C1,['rose']
+CC(=O)OC1CCCCC1,['musty']
+CC(=O)OCC(C)C,['pineapple']
+CC(=O)OCCC(C)CCC=C(C)C,"['rose', 'citrus']"
+CC(=O)OCCC1CCCCC1,['rose']
+CC(=O)OCCCCCCCC(C)C,"['rose', 'citrus']"
+CC(=O)OCCCCCCCS,['citrus']
+CC(=O)OCCCc1ccccc1,['balsamic']
+CC(=O)OCCc1ccccc1,"['rose', 'balsamic']"
+CC(=O)Oc1cc(C)ccc1C(C)C,['balsamic']
+CC(=O)Oc1ccc(C)cc1,['phenolic']
+CC(=O)Oc1ccccc1,"['burnt', 'phenolic']"
+CC(=O)S,['burnt']
+CC(=O)SCc1ccco1,['burnt']
+CC(=O)Sc1ccoc1C,['burnt']
+CC(=O)c1cc(C)ccc1O,['phenolic']
+CC(=O)c1cc(C)oc1C,"['earthy', 'musty']"
+CC(=O)c1cc(C)sc1C,['burnt']
+CC(=O)c1ccc(C(C)(C)C)cc1,['balsamic']
+CC(=O)c1ccc(C)o1,"['caramellic', 'musty']"
+CC(=O)c1ccc(O)cc1,['balsamic']
+CC(=O)c1ccc[nH]1,['musty']
+CC(=O)c1ccccc1C,"['burnt', 'phenolic']"
+CC(=O)c1ccccc1O,['phenolic']
+CC(=O)c1ccccn1,['musty']
+CC(=O)c1cccnc1,"['burnt', 'phenolic']"
+CC(=O)c1ccco1,"['caramellic', 'balsamic']"
+CC(=O)c1ccnc(C)n1,"['caramellic', 'burnt']"
+CC(=O)c1cnccn1,['musty']
+CC(=O)c1oc(C)cc1C,"['caramellic', 'balsamic']"
+CC(=O)c1sc(C)nc1C,"['earthy', 'musty']"
+CC(=O)c1sccc1C,['phenolic']
+CC(=O)n1ccc2ccccc21,['balsamic']
+CC(C)(C)C(=O)OCCc1ccccc1,['rose']
+CC(C)(C)C1CCC(O)CC1,['musty']
+CC(C)(C)C1CCCCC1O,"['earthy', 'phenolic']"
+CC(C)(C)c1ccc(O)cc1,['phenolic']
+CC(C)(C)c1cccc(O)c1,['phenolic']
+CC(C)(O)Cc1ccccc1,['rose']
+CC(C)=C1CCC2(C)OC2C1=O,['pineapple']
+CC(C)=CC(=O)C=C1COC1=O,['citrus']
+CC(C)=CC(=O)O,"['caramellic', 'musty', 'phenolic']"
+CC(C)=CC(=O)OCCc1ccccc1,['winey']
+CC(C)=CC/C=C(/C)CCO,['rose']
+CC(C)=CC/C=C(\C)C1CC=C(C)CC1,"['balsamic', 'citrus']"
+CC(C)=CC/C=C(\C)CCOC(=O)CC(C)C,"['rose', 'pineapple']"
+CC(C)=CC1CC(C)CCO1,"['rose', 'earthy']"
+CC(C)=CCC/C(C)=C/CO,"['rose', 'citrus']"
+CC(C)=CCC/C(C)=C/COC(=O)C(C)C,"['rose', 'citrus']"
+CC(C)=CCC/C(C)=C/COC(=O)Cc1ccccc1,"['rose', 'balsamic']"
+CC(C)=CCC/C(C)=C/COC(=O)c1ccccc1,"['rose', 'balsamic']"
+CC(C)=CCC/C(C)=C/COC=O,"['rose', 'citrus']"
+CC(C)=CCC/C(C)=C/COCC=O,['rose']
+CC(C)=CCC/C(C)=C1\CC=C(C)CC1,"['balsamic', 'citrus']"
+CC(C)=CCC/C(C)=C\CO,"['rose', 'citrus']"
+CC(C)=CCC/C(C)=C\COC(=O)C(C)C,"['rose', 'citrus']"
+CC(C)=CCC/C(C)=C\COC(=O)Cc1ccccc1,"['rose', 'balsamic']"
+CC(C)=CCCC(C)CC(=O)O,['citrus']
+CC(C)=CCCC(C)CCCC(C)C=O,['rose']
+CC(C)=CCCC(C)CCOC(=O)C(C)C,"['rose', 'citrus']"
+CC(C)=CCCC(C)CCOC(=O)CC(C)C,['rose']
+CC(C)=CCCC(C)CCOC(=O)Cc1ccccc1,['rose']
+CC(C)=CCCC(C)CCOC(=O)c1ccccc1N,['rose']
+CC(C)=CCCC(C)CCOC=O,"['rose', 'citrus']"
+CC(C)=CCCC(C)CCOCC=O,"['rose', 'citrus']"
+CC(C)=CCCC(C)O,['citrus']
+CC(C)=CCCC1(C)OCC(C)O1,['citrus']
+CC(C)=CCCC1=CCC(C=O)CC1,['citrus']
+CC(C)=CCC[C@@H](C)CCO,"['rose', 'citrus']"
+CC(C)=CCC[C@H](C)CCO,"['rose', 'citrus']"
+CC(C)=CCOC(=O)C(C)C,['pineapple']
+CC(C)=CCOC(=O)c1ccccc1,['balsamic']
+CC(C)=CCc1occc1C,"['caramellic', 'citrus']"
+CC(C)=C[C@@H]1C[C@H](C)CCO1,"['rose', 'earthy']"
+CC(C)C(=O)OCCCc1ccccc1,['balsamic']
+CC(C)C(=O)OCCc1ccccc1,['rose']
+CC(C)C(=O)OC[C@@H](C)c1ccccc1,"['balsamic', 'pineapple']"
+CC(C)C(C)C(C)(C)O,['earthy']
+CC(C)C(C)O,['musty']
+CC(C)C/C=C(/C=O)C(C)C,['earthy']
+CC(C)C1=CCC(C)(O)CC1,['musty']
+CC(C)C1CCC(C)(S)CC1=O,['citrus']
+CC(C)C1CCC(O)CC1,['rose']
+CC(C)CC(=O)CC(C)C,['pineapple']
+CC(C)CC(=O)Cc1ccccc1,"['caramellic', 'burnt']"
+CC(C)CC(=O)OC(C)C,"['winey', 'pineapple']"
+CC(C)CC(=O)OC/C=C/c1ccccc1,"['winey', 'rose']"
+CC(C)CC(=O)OCCc1ccccc1,"['rose', 'balsamic', 'pineapple']"
+CC(C)CC(=O)OCc1ccccc1,"['pineapple', 'musty']"
+CC(C)CC(C)O,['winey']
+CC(C)CC(O)CC(C)C,['winey']
+CC(C)CC=NCCC(C)C,['burnt']
+CC(C)CCC(=O)OC(C)C,['pineapple']
+CC(C)CCCC(C)(C)O,"['rose', 'citrus']"
+CC(C)CCCC(C)CC=O,['citrus']
+CC(C)CCCC(C)CCO,"['rose', 'citrus', 'musty']"
+CC(C)CCCCCCCCCC=O,['citrus']
+CC(C)CCCCCCCCCCC=O,['citrus']
+CC(C)CCCCOC(=O)C(C)C,['winey']
+CC(C)CCCOC(=O)c1ccccc1,['balsamic']
+CC(C)CCOC(=O)/C=C/c1ccccc1,"['balsamic', 'musty']"
+CC(C)CCOC(=O)C(C)O,"['winey', 'caramellic']"
+CC(C)CCOC(=O)C(C)c1ccccc1,['balsamic']
+CC(C)CCOC(=O)CC(C)C,['pineapple']
+CC(C)CCOC(=O)CCC(=O)OCCC(C)C,['winey']
+CC(C)CCOC(=O)CCc1ccco1,"['rose', 'caramellic']"
+CC(C)CCOC(=O)Cc1ccccc1,"['rose', 'balsamic']"
+CC(C)CCOC(=O)c1ccccc1,['balsamic']
+CC(C)CCOC(=O)c1ccccc1O,['balsamic']
+CC(C)CCOC=O,"['winey', 'earthy']"
+CC(C)COC(=O)/C=C/c1ccccc1,['balsamic']
+CC(C)COC(=O)C(C)C,"['winey', 'pineapple']"
+CC(C)COC(=O)C(C)O,['caramellic']
+CC(C)COC(=O)CCc1ccco1,"['winey', 'pineapple']"
+CC(C)COC(=O)Cc1ccccc1,['rose']
+CC(C)COC(=O)c1ccccc1,"['rose', 'balsamic', 'musty']"
+CC(C)COc1ccc2ccccc2c1,['musty']
+CC(C)Cc1ccc2ccccc2n1,['earthy']
+CC(C)Cc1cccnc1,['earthy']
+CC(C)Cc1nccs1,"['earthy', 'musty']"
+CC(C)OC(=O)/C=C/c1ccccc1,['balsamic']
+CC(C)OC(=O)C(C)C,"['citrus', 'pineapple']"
+CC(C)OC(=O)C(C)O,['caramellic']
+CC(C)OC(=O)Cc1ccccc1,"['winey', 'rose']"
+CC(C)c1ccc(O)cc1,['phenolic']
+CC(C)c1cccc(O)c(=O)c1,['phenolic']
+CC(C)c1cccc(O)c1,['phenolic']
+CC(C)c1ccccc1O,"['burnt', 'phenolic']"
+CC(C)c1ccccn1,['earthy']
+CC(C)c1ccncc1,['earthy']
+CC(C=O)CCc1ccccc1,"['earthy', 'musty']"
+CC(CC=O)CC(C)(C)C,['citrus']
+CC(CCO)CCCC(C)(C)O,['rose']
+CC(O)/C=C/c1ccccc1,['balsamic']
+CC(O)C(=O)OCc1ccccc1,['caramellic']
+CC(O)C(C)SC(C)C(C)S,['burnt']
+CC(O)COC(=O)Cc1ccccc1,['balsamic']
+CC(O)c1ccccc1,"['rose', 'earthy']"
+CC(OC=O)c1ccccc1,['balsamic']
+CC(OCCc1ccccc1)OCCc1ccccc1,"['rose', 'balsamic']"
+CC(S)C(C)CO,['burnt']
+CC(S)c1cccs1,['burnt']
+CC(c1ccccc1)C1OCCO1,['earthy']
+CC/C(C=O)=C\c1ccco1,['caramellic']
+CC/C=C(\C)C(=O)O,['caramellic']
+CC/C=C/C(=O)O,['caramellic']
+CC/C=C/CC/C=C/C=O,['citrus']
+CC/C=C/CC1CCCC1=O,['balsamic']
+CC/C=C/CCC(=O)OCC,['pineapple']
+CC/C=C/CCO,['earthy']
+CC/C=C/CCOC(=O)/C=C/c1ccccc1,['balsamic']
+CC/C=C/CCOC(=O)CC(C)=O,['earthy']
+CC/C=C/CCOC(=O)CCC(C)=O,"['caramellic', 'earthy']"
+CC/C=C/CCOC(=O)c1ccccc1O,['balsamic']
+CC/C=C/CCOC(C)OCC,"['earthy', 'musty']"
+CC/C=C\CCOC(=O)C(C)=O,['caramellic']
+CC/C=C\CCOC(=O)CC,['citrus']
+CC/C=C\CCOC(=O)CCC,['winey']
+CC/C=C\CCOC(=O)CCCCCCC,['winey']
+CC/C=C\CCOC(=O)c1ccccc1,['balsamic']
+CC1(C)CCCC(C)(O)C1=O,['citrus']
+CC1(O)CCC(C(C)(C)O)CC1,['balsamic']
+CC1=C(C)C(=O)CC1,"['caramellic', 'burnt']"
+CC1=C(C=O)C(C)(C)CC=C1,['phenolic']
+CC1=C(O)C(=O)C(C(C)C)CC1,['phenolic']
+CC1=C(O)C(=O)C(C)O1,"['caramellic', 'pineapple', 'burnt']"
+CC1=C(O)C(=O)C(C)S1,['burnt']
+CC1=C(O)C(=O)C(O)CO1,['caramellic']
+CC1=C(O)C(=O)CO1,"['caramellic', 'burnt']"
+CC1=C(O)C(=O)OC1C,"['caramellic', 'burnt']"
+CC1=C(OC(=O)CO)CC(C(C)C)CC1,['citrus']
+CC1=CC(=O)C(C)O1,"['caramellic', 'burnt']"
+CC1=CC(=O)CC(C)(C)C1,['musty']
+CC1=CC(=O)CC(C)(C)C1=O,"['citrus', 'musty']"
+CC1=CC(=O)CC1,['caramellic']
+CC1=CC(=O)CC1C,"['caramellic', 'burnt']"
+CC1=CC(=O)CCC1,"['caramellic', 'musty', 'phenolic']"
+CC1=CC(=O)CO1,['caramellic']
+CC1=CC(C)C(C=O)CC1,['citrus']
+CC1=CC(C=O)C(C(C)C)CC1,"['rose', 'citrus']"
+CC1=CC(O)C(C(C)C)CC1,['musty']
+CC1=CC=C(C(C)C)CC1,['citrus']
+CC1=CC=CCC1,['citrus']
+CC1=CCC(=C(C)C)CC1,['citrus']
+CC1=CCC(C(C)(C)OC=O)CC1,['citrus']
+CC1=CCC(C(C)C)=CC1,['citrus']
+CC1=CCC(C(C)C)C=C1,['citrus']
+CC1=CCC(C)C(C=O)C1,['citrus']
+CC1=CCC(O)(C(C)C)CC1,"['earthy', 'citrus', 'musty']"
+CC1=CCC2C(C1)C2(C)C,"['citrus', 'phenolic']"
+CC1=CCCC(C)(C)C1C=O,['citrus']
+CC1=NC(CC(C)C)SC1C,['burnt']
+CC1=NCCS1,"['earthy', 'musty']"
+CC1=N[C@@H](C)O[C@H]1C,['musty']
+CC1C=CCCC1(C)C=O,['citrus']
+CC1CC(=O)C(=O)C1C,"['caramellic', 'burnt']"
+CC1CC(=O)CC(C)(C)C1,['citrus']
+CC1CC(=O)CO1,['burnt']
+CC1CC(C)(C)OC(Cc2ccccc2)O1,['balsamic']
+CC1CC(C)(c2ccccc2)CO1,['citrus']
+CC1CC(C)C(=O)C1=O,"['caramellic', 'burnt']"
+CC1CC(C)c2nccnc21,"['earthy', 'burnt']"
+CC1CC(O)CC(C)(C)C1,['musty']
+CC1CCC(=O)C1=O,"['caramellic', 'burnt']"
+CC1CCC(=O)CC1,['musty']
+CC1CCC(C(C)(C)O)CC1,['citrus']
+CC1CCC(C(C)C)C(O)C1,"['earthy', 'musty']"
+CC1CCC(C(C)C)C(OC=O)C1,['earthy']
+CC1CCC(C(C)C)OC(=O)C1,['caramellic']
+CC1CCCC(=O)C1=O,"['caramellic', 'burnt', 'phenolic']"
+CC1CCCC(C)(C)C1=O,['citrus']
+CC1CCCCC1=O,['earthy']
+CC1COC(C(C)C)O1,['winey']
+CC1COC(C)(C)O1,"['earthy', 'musty']"
+CC1COC(Cc2ccccc2)O1,['rose']
+CC1OC(C)C(C)O1,['winey']
+CC1OC(C)OC(C)O1,['musty']
+CC1OC(Cc2ccccc2)OC1C,['earthy']
+CC1OC=CC1=O,['caramellic']
+CC1OCCC1=O,['caramellic']
+CC1SCCC1=O,['burnt']
+CC=C(C)C(=O)OCc1ccccc1,"['rose', 'earthy', 'balsamic']"
+CC=CC(=O)OCCCC,['pineapple']
+CC=CC(=O)OCc1ccco1,['earthy']
+CC=CCOC(=O)CCCCC,['pineapple']
+CC=Cc1ccc(O)c(OC)c1OC,['phenolic']
+CC=Cc1ccc(OCCCC)c(OC)c1,['balsamic']
+CCC(=O)/C=C/c1ccc(OC)cc1,['caramellic']
+CCC(=O)C(=O)CC,['caramellic']
+CCC(=O)C(=O)O,['caramellic']
+CCC(=O)C(C)CC=C(C)C,['citrus']
+CCC(=O)C(O)CC,['caramellic']
+CCC(=O)C(O)c1ccccc1,['caramellic']
+CCC(=O)C1CC(C(C)C)CC=C1C,"['citrus', 'phenolic']"
+CCC(=O)CC(C)(C)S,['citrus']
+CCC(=O)CO,"['caramellic', 'musty']"
+CCC(=O)COC(C)=O,['winey']
+CCC(=O)OC(C)(C)C1CC=C(C)CC1,['citrus']
+CCC(=O)OC(C)C,['pineapple']
+CCC(=O)OC(C)c1ccccc1,"['rose', 'citrus']"
+CCC(=O)OC/C=C(\C)CCC=C(C)C,"['rose', 'citrus']"
+CCC(=O)OC/C=C/c1ccccc1,"['rose', 'balsamic']"
+CCC(=O)OC1=C(C)CCC1=O,['caramellic']
+CCC(=O)OC1CCCCC1,['pineapple']
+CCC(=O)OCC(C)OC(=O)CC,['winey']
+CCC(=O)OCC1CCCO1,"['caramellic', 'musty']"
+CCC(=O)OCCC(C)C,['pineapple']
+CCC(=O)OCCC(C)CCC=C(C)C,"['rose', 'citrus']"
+CCC(=O)OCCC1CCCCC1,['pineapple']
+CCC(=O)OCCCc1ccccc1,['balsamic']
+CCC(=O)OCCc1ccccc1,"['rose', 'balsamic']"
+CCC(=O)OCc1ccccc1,"['balsamic', 'pineapple']"
+CCC(=O)Oc1c(C)occc1=O,"['caramellic', 'pineapple']"
+CCC(=O)Oc1ccccc1,['phenolic']
+CCC(=O)c1cc(OC)c(O)c(OC)c1,['balsamic']
+CCC(=O)c1occc1C,['caramellic']
+CCC(C)(CCC=C(C)C)OC(C)=O,['citrus']
+CCC(C)(O)CC,['earthy']
+CCC(C)(O)CCC=C(C)C,"['rose', 'citrus']"
+CCC(C)(O)CCCC(C)C,['citrus']
+CCC(C)(O)CCc1ccccc1,"['rose', 'earthy']"
+CCC(C)C(=O)C(=O)OC,['caramellic']
+CCC(C)C(=O)OC(C)C,['pineapple']
+CCC(C)C(=O)OC/C=C(\C)CCC=C(C)C,['rose']
+CCC(C)C(=O)OCC(C)C,['citrus']
+CCC(C)C(=O)OCCC(C)C,"['winey', 'citrus']"
+CCC(C)C=O,"['burnt', 'musty', 'phenolic']"
+CCC(C)CCCC(C)(C)O,['citrus']
+CCC(C)CCCC(C)C=O,"['rose', 'citrus']"
+CCC(C)CCCCC=O,['citrus']
+CCC(C)CCCCCCC=O,"['rose', 'citrus']"
+CCC(C)CCO,['winey']
+CCC(C)CO,['winey']
+CCC(C)COC(=O)/C=C/c1ccccc1,['balsamic']
+CCC(C)COC(=O)C(C)CC,['pineapple']
+CCC(C)COC(=O)CC(C)C,"['winey', 'earthy']"
+CCC(C)COC(=O)Cc1ccccc1,['balsamic']
+CCC(C)COC(=O)c1ccccc1,['balsamic']
+CCC(C)COC(=O)c1ccccc1O,['balsamic']
+CCC(C)COC=O,['winey']
+CCC(C)O,['winey']
+CCC(C)OC(=O)C(C)O,['caramellic']
+CCC(C)c1nccnc1OC,"['earthy', 'musty']"
+CCC(C=O)CC,['caramellic']
+CCC(CC)C(=O)O,['earthy']
+CCC(CC)CO,['musty']
+CCC(CC)COC(C)=O,['musty']
+CCC(COC(C)=O)C(=O)OC,"['pineapple', 'burnt']"
+CCC(O)C(C)=O,['caramellic']
+CCC(O)c1ccccc1,"['rose', 'balsamic']"
+CCC(OC(C)=O)C(=O)OC,['pineapple']
+CCC(S)CS,['burnt']
+CCC(SC)C(=O)OC,['musty']
+CCC/C=C/CC(C)=O,['earthy']
+CCC/C=C/COC(=O)CCCC,"['winey', 'pineapple']"
+CCC/C=C/COC(=O)CCCCCCC,"['winey', 'earthy']"
+CCC/C=C\CCCO,['earthy']
+CCC/C=C\CO,['phenolic']
+CCC1=C(O)C(=O)C(C)O1,"['caramellic', 'burnt']"
+CCC1=C(O)C(=O)CC1,['caramellic']
+CCC1=C(O)C(=O)CC1C,"['caramellic', 'burnt']"
+CCC1C=CC(=O)O1,['caramellic']
+CCC1CC(C)=C(O)C1=O,"['caramellic', 'burnt']"
+CCC1N=C(C)C(C)S1,['musty']
+CCC1OC(=O)C(O)=C1C,['caramellic']
+CCC=C(C)C(=O)OC,['pineapple']
+CCC=C(C)C(=O)OCC,['pineapple']
+CCC=C(C)OC=O,['winey']
+CCC=CC=CC(C)=O,['earthy']
+CCC=CCCC(C)=O,['earthy']
+CCC=CCCOC(=O)CC(C)C,['pineapple']
+CCCC(=O)C(=O)CCC,['caramellic']
+CCCC(=O)C(C)=O,"['caramellic', 'phenolic']"
+CCCC(=O)CC,['winey']
+CCCC(=O)CC(=O)OC,['caramellic']
+CCCC(=O)CC(=O)OCC,['pineapple']
+CCCC(=O)CCC,['pineapple']
+CCCC(=O)CCSCc1ccco1,['burnt']
+CCCC(=O)OC,['pineapple']
+CCCC(=O)OC(C)C,['pineapple']
+CCCC(=O)OC(C)CC,['pineapple']
+CCCC(=O)OC(C)CCC,['pineapple']
+CCCC(=O)OC/C=C(\C)CCC=C(C)C,['rose']
+CCCC(=O)OC/C=C/c1ccccc1,"['winey', 'balsamic']"
+CCCC(=O)OC1=C(C)CCC1=O,['caramellic']
+CCCC(=O)OC1CCCCC1,['pineapple']
+CCCC(=O)OCC,['pineapple']
+CCCC(=O)OCC(C)C,['pineapple']
+CCCC(=O)OCC1CCCO1,"['pineapple', 'musty']"
+CCCC(=O)OCCC(C)CCC=C(C)C,"['rose', 'citrus']"
+CCCC(=O)OCCC(C)CCCC(C)C,['rose']
+CCCC(=O)OCCCCC(C)C,['winey']
+CCCC(=O)OCCCSC,['pineapple']
+CCCC(=O)OCCCc1ccccc1,['balsamic']
+CCCC(=O)OCCc1ccccc1,"['rose', 'musty']"
+CCCC(=O)OCSC,['musty']
+CCCC(=O)OCc1ccccc1,['pineapple']
+CCCC(=O)Oc1c(C)occc1=O,['caramellic']
+CCCC(=O)Oc1c(CC)occc1=O,['caramellic']
+CCCC(=O)Oc1ccc(C)cc1,['phenolic']
+CCCC(=O)Oc1ccco1,['caramellic']
+CCCC(=O)c1ccco1,['balsamic']
+CCCC(C)C(=O)OC,['pineapple']
+CCCC(C)C(=O)OCC,['pineapple']
+CCCC(C)OC(=O)C(C)O,"['winey', 'caramellic']"
+CCCC(C)OC(C)=O,['musty']
+CCCC(CCO)SC,['earthy']
+CCCC(O)C(C)C,['musty']
+CCCC(O)CC,['pineapple']
+CCCC(O)CC(=O)OCC,"['winey', 'citrus', 'pineapple', 'burnt']"
+CCCC(O)CCCC(=O)OCC,['pineapple']
+CCCC(O)Cc1ccccc1,['earthy']
+CCCC/C=C/C(=O)O,['caramellic']
+CCCC/C=C/C(C)=O,['earthy']
+CCCC/C=C/C(C)O,['earthy']
+CCCC/C=C/CCCCC(=O)OCCC(C)C,"['winey', 'rose']"
+CCCC/C=C/CCO,['earthy']
+CCCC1CCOC(C)S1,['pineapple']
+CCCC1NCCS1,['caramellic']
+CCCC=CC(=O)OC,"['earthy', 'pineapple', 'musty']"
+CCCC=CC(=O)OC=CCCCC,['pineapple']
+CCCC=CC(=O)OCC,"['winey', 'pineapple']"
+CCCC=CC=CC=CC=O,['citrus']
+CCCC=O,['musty']
+CCCCC(=O)CC,['musty']
+CCCCC(=O)OC,['pineapple']
+CCCCC(=O)OC(C)C,"['winey', 'pineapple']"
+CCCCC(=O)OC/C=C(\C)CCC=C(C)C,"['rose', 'pineapple']"
+CCCCC(=O)OC/C=C/c1ccccc1,['rose']
+CCCCC(=O)OCC,['pineapple']
+CCCCC(=O)OCCC,"['winey', 'pineapple']"
+CCCCC(=O)OCCC(C)CCC=C(C)C,['rose']
+CCCCC(=O)OCCCc1ccccc1,['balsamic']
+CCCCC(=O)OCCc1ccccc1,"['rose', 'pineapple']"
+CCCCC(=O)OCc1ccco1,"['caramellic', 'pineapple']"
+CCCCC(=O)Oc1ccccc1,['phenolic']
+CCCCC(=O)c1ccco1,['caramellic']
+CCCCC(=O)c1cccs1,['caramellic']
+CCCCC(C(C)=O)C(=O)OCC,['winey']
+CCCCC(C)O,"['winey', 'earthy', 'musty']"
+CCCCC(CC)C(=O)O,"['earthy', 'musty']"
+CCCCC(CC)C(=O)OCCc1ccccc1,['rose']
+CCCCC(CC)CO,"['rose', 'citrus']"
+CCCCC(CC)COC(=O)c1ccccc1,['balsamic']
+CCCCC(CC)OC(C)=O,['rose']
+CCCCC(O)C(=O)OC,"['winey', 'pineapple']"
+CCCCC(O)CS,['citrus']
+CCCCC(OC(C)=O)C(=O)OC,['pineapple']
+CCCCC/C(=C/c1ccccc1)COC=O,['balsamic']
+CCCCC/C=C/C(C)=O,['earthy']
+CCCCC/C=C/CCCO,['earthy']
+CCCCC/C=C\CCCOC(C)=O,"['rose', 'citrus']"
+CCCCC/C=C\CO,"['citrus', 'musty']"
+CCCCC1CCCCC(=O)O1,['caramellic']
+CCCCC1OC(=O)CC1C,['burnt']
+CCCCC1OC1C=O,['citrus']
+CCCCC1OCCOC1=O,"['winey', 'caramellic']"
+CCCCC=CCC(=O)OCC,"['winey', 'pineapple']"
+CCCCC=COC(=O)C(C)C,['pineapple']
+CCCCC=COC(=O)C=Cc1ccccc1,['balsamic']
+CCCCC=COC(=O)CCC,['pineapple']
+CCCCC=COC(=O)c1ccccc1,['balsamic']
+CCCCC=COC(=O)c1ccco1,['caramellic']
+CCCCCC#CC(=O)OC,['winey']
+CCCCCC(/C=C/c1ccccc1)OC(C)=O,['balsamic']
+CCCCCC(=O)C(C)=O,['earthy']
+CCCCCC(=O)CC,"['earthy', 'musty']"
+CCCCCC(=O)CCCCC,['earthy']
+CCCCCC(=O)OC,['pineapple']
+CCCCCC(=O)OC(C)C,['pineapple']
+CCCCCC(=O)OC(C)c1ccccc1,['rose']
+CCCCCC(=O)OC/C=C(\C)CCC=C(C)C,"['rose', 'pineapple']"
+CCCCCC(=O)OC/C=C/c1ccccc1,['balsamic']
+CCCCCC(=O)OC1CCCCC1,"['winey', 'pineapple']"
+CCCCCC(=O)OCC,['pineapple']
+CCCCCC(=O)OCC(C)C,"['winey', 'earthy', 'pineapple']"
+CCCCCC(=O)OCC(C)CC,['pineapple']
+CCCCCC(=O)OCC=C(C)C,['earthy']
+CCCCCC(=O)OCCC,['pineapple']
+CCCCCC(=O)OCCC(C)C,['pineapple']
+CCCCCC(=O)OCCC(C)CCC=C(C)C,"['rose', 'pineapple']"
+CCCCCC(=O)OCCCC,"['winey', 'pineapple']"
+CCCCCC(=O)OCCCSC,['pineapple']
+CCCCCC(=O)OCCc1ccccc1,"['rose', 'pineapple']"
+CCCCCC(=O)OCSC,['pineapple']
+CCCCCC(=O)OCc1ccccc1,['pineapple']
+CCCCCC(=O)OCc1ccco1,['musty']
+CCCCCC(=S)OC,['pineapple']
+CCCCCC(C(C)=O)C(=O)OCC,['winey']
+CCCCCC(C)O,['citrus']
+CCCCCC(C)OC(=O)CC(C)C,['winey']
+CCCCCC(C=O)SC,['citrus']
+CCCCCC(CC(=O)OC)OC(C)=O,['winey']
+CCCCCC(CC(=O)OCC)OC(C)=O,['winey']
+CCCCCC(CC)OC(=O)CCC,"['citrus', 'musty']"
+CCCCCC(CC)OC(C)=O,"['rose', 'citrus']"
+CCCCCC(CC)OC=O,['citrus']
+CCCCCC(CO)C(C)=O,"['earthy', 'musty']"
+CCCCCC(O)CC,"['earthy', 'citrus', 'musty']"
+CCCCCC(O)CC(=O)OCC,['winey']
+CCCCCC(O)CCO,['musty']
+CCCCCC(OC)OC,['musty']
+CCCCCC1OC1C=O,['citrus']
+CCCCCC1OCC(C)O1,['pineapple']
+CCCCCC1OCCOC1=O,"['winey', 'caramellic']"
+CCCCCC=C(C)O,['earthy']
+CCCCCC=CC(C)=O,['earthy']
+CCCCCC=CC=CC=O,['citrus']
+CCCCCC=CCCC=O,['citrus']
+CCCCCCC(=O)C(=O)CC,['caramellic']
+CCCCCCC(=O)CSC,['citrus']
+CCCCCCC(=O)O,['pineapple']
+CCCCCCC(=O)OC(C)CCC,['winey']
+CCCCCCC(=O)OCC,"['winey', 'pineapple']"
+CCCCCCC(=O)OCC(C)C,['winey']
+CCCCCCC(=O)OCCC,"['winey', 'pineapple']"
+CCCCCCC(=O)OCCC(C)C,['winey']
+CCCCCCC(=O)OCCCCC,['winey']
+CCCCCCC(=O)OCCc1ccccc1,"['winey', 'rose', 'earthy', 'citrus']"
+CCCCCCC(=O)OCc1ccco1,['musty']
+CCCCCCC(C(C)=O)C(=O)OCC,['winey']
+CCCCCCC(C)=O,"['earthy', 'musty']"
+CCCCCCC(C)C=O,"['rose', 'citrus']"
+CCCCCCC(C)O,"['earthy', 'musty']"
+CCCCCCC(O)CC,['earthy']
+CCCCCCC(OC(C)=O)C(=O)OCC,['winey']
+CCCCCCC(OCC)OCC,"['winey', 'citrus']"
+CCCCCCC(S)C=O,['citrus']
+CCCCCCC/C=C/C=O,"['rose', 'earthy']"
+CCCCCCC1OCC(O)CO1,"['earthy', 'musty']"
+CCCCCCC=CC(=O)OCC,['pineapple']
+CCCCCCC=CC=O,['citrus']
+CCCCCCC=COC(=O)CC,['pineapple']
+CCCCCCC=O,['citrus']
+CCCCCCCC(=O)CC,['citrus']
+CCCCCCCC(=O)OC,['winey']
+CCCCCCCC(=O)OC(C)C,['winey']
+CCCCCCCC(=O)OC(C)CCC,['winey']
+CCCCCCCC(=O)OC/C=C(\C)CCC=C(C)C,['rose']
+CCCCCCCC(=O)OCC,"['winey', 'pineapple', 'musty']"
+CCCCCCCC(=O)OCC(C)C,['winey']
+CCCCCCCC(=O)OCCC,['winey']
+CCCCCCCC(=O)OCCC(C)C,"['winey', 'pineapple']"
+CCCCCCCC(=O)OCCC(C)CCC=C(C)C,['rose']
+CCCCCCCC(=O)OCCc1ccccc1,"['winey', 'caramellic', 'earthy']"
+CCCCCCCC(=O)OCc1ccccc1,['pineapple']
+CCCCCCCC(C)=O,['earthy']
+CCCCCCCC(C)C=O,['citrus']
+CCCCCCCC(C)O,"['citrus', 'musty']"
+CCCCCCCC(O)CC,['musty']
+CCCCCCCC(OC)OC,"['rose', 'citrus']"
+CCCCCCCC(OCC)OCC,['citrus']
+CCCCCCCC/C=C/CO,['rose']
+CCCCCCCC1(C(=O)O)CC1,['balsamic']
+CCCCCCCC1CC(C)OC1=O,['citrus']
+CCCCCCCC1OC1C=O,['citrus']
+CCCCCCCC1OCC(C)O1,['citrus']
+CCCCCCCC=CC(=O)OCC(C)C,['pineapple']
+CCCCCCCC=CC(=O)OCCCC,['citrus']
+CCCCCCCC=CC=CC=O,['citrus']
+CCCCCCCC=CCO,"['rose', 'citrus']"
+CCCCCCCC=O,['citrus']
+CCCCCCCCC(=O)OC,['winey']
+CCCCCCCCC(=O)OC(C)C,['winey']
+CCCCCCCCC(=O)OCC(C)C,"['winey', 'rose']"
+CCCCCCCCC(=O)OCCC,['winey']
+CCCCCCCCC(=O)OCCC(C)C,['winey']
+CCCCCCCCC(=O)OCCCC,"['winey', 'rose']"
+CCCCCCCCC(=O)OCCCCC,['winey']
+CCCCCCCCC(=O)OCCCCCC,['winey']
+CCCCCCCCC(=O)OCCCCCCC,"['winey', 'rose']"
+CCCCCCCCC(=O)OCCc1ccccc1,['rose']
+CCCCCCCCC(=O)OCc1ccccc1,"['winey', 'balsamic']"
+CCCCCCCCC(C)C=O,['citrus']
+CCCCCCCCC(O)C(=O)OC,['pineapple']
+CCCCCCCCC(OC)OC,['citrus']
+CCCCCCCCC(OCC)OCC,"['rose', 'citrus']"
+CCCCCCCCC(S)C=O,['citrus']
+CCCCCCCCC1CCCC(=O)O1,['musty']
+CCCCCCCCC1OCC(C)O1,['citrus']
+CCCCCCCCC=CC(OC)OC,['citrus']
+CCCCCCCCC=CC(OCC)OCC,['citrus']
+CCCCCCCCC=CC=O,['citrus']
+CCCCCCCCC=COC,['citrus']
+CCCCCCCCC=O,"['rose', 'citrus']"
+CCCCCCCCCC(=O)O,['citrus']
+CCCCCCCCCC(=O)OC,['winey']
+CCCCCCCCCC(=O)OCC,['winey']
+CCCCCCCCCC(=O)OCCC(C)C,['winey']
+CCCCCCCCCC(=O)OCCC(C)CCC=C(C)C,['rose']
+CCCCCCCCCC(=O)OCCCCCC,['winey']
+CCCCCCCCCC(=O)OCCCCCCC,['winey']
+CCCCCCCCCC(=O)OCCc1ccccc1,"['winey', 'rose']"
+CCCCCCCCCC(=O)OCc1ccco1,['caramellic']
+CCCCCCCCCC(=O)Oc1ccccc1C,['phenolic']
+CCCCCCCCCC(C)=O,"['rose', 'pineapple']"
+CCCCCCCCCC(C)C(OCC)OCC,"['balsamic', 'citrus']"
+CCCCCCCCCC(C)C=O,['citrus']
+CCCCCCCCCC(C)O,"['rose', 'citrus']"
+CCCCCCCCCC(OC)OC,['citrus']
+CCCCCCCCCC(OCC)OCC,['citrus']
+CCCCCCCCCC1OCC(C)O1,['citrus']
+CCCCCCCCCC=O,['citrus']
+CCCCCCCCCCC(=O)OC,['winey']
+CCCCCCCCCCC(=O)OCCC(C)C,['rose']
+CCCCCCCCCCC(C)=O,['citrus']
+CCCCCCCCCCC(OC)OC,['citrus']
+CCCCCCCCCCC(OCC)OCC,['citrus']
+CCCCCCCCCCC1OCC(C)O1,['citrus']
+CCCCCCCCCCC=O,"['citrus', 'pineapple']"
+CCCCCCCCCCCC(=O)OC(C)CCC,['winey']
+CCCCCCCCCCCC(=O)OCC(C)C,['winey']
+CCCCCCCCCCCC(=O)OCCC(C)C,['winey']
+CCCCCCCCCCCC(=O)OCCCCC,['winey']
+CCCCCCCCCCCC(=O)Oc1ccc(C)cc1,['balsamic']
+CCCCCCCCCCCC(OC)OC,['citrus']
+CCCCCCCCCCCC(OCC)OCC,['citrus']
+CCCCCCCCCCCC=CC=O,['citrus']
+CCCCCCCCCCCC=O,['citrus']
+CCCCCCCCCCCCC(OCC)OCC,['citrus']
+CCCCCCCCCCCCC=O,['citrus']
+CCCCCCCCCCCCCC(=O)O,"['citrus', 'pineapple']"
+CCCCCCCCCCCCCC(=O)OCC=Cc1ccccc1,['balsamic']
+CCCCCCCCCCCCCC(C)=O,['burnt']
+CCCCCCCCCCCCCC=O,['citrus']
+CCCCCCCCCCCCCO,['musty']
+CCCCCCCCCCCCO,"['earthy', 'citrus']"
+CCCCCCCCCCCCOC(=O)C(C)O,['burnt']
+CCCCCCCCCCCCOC(=O)CC,['winey']
+CCCCCCCCCCCCOC(C)=O,"['rose', 'citrus']"
+CCCCCCCCCCCO,['citrus']
+CCCCCCCCCCCOC(C)=O,['rose']
+CCCCCCCCCCOC(=O)CC,['citrus']
+CCCCCCCCCCOC(=O)CC(C)C,['winey']
+CCCCCCCCCCOC(=O)CCC,['rose']
+CCCCCCCCCCOC(=O)CCCCC,['pineapple']
+CCCCCCCCCCOC(=O)CCCCCCC,"['winey', 'citrus']"
+CCCCCCCCCCOC(=O)CCCCCCCC,['winey']
+CCCCCCCCCCOC(C)=O,"['rose', 'citrus', 'pineapple']"
+CCCCCCCCCO,['rose']
+CCCCCCCCCOC(=O)C(C)C,['rose']
+CCCCCCCCCOC(=O)CC,"['winey', 'rose']"
+CCCCCCCCCOC(=O)CC(C)C,['citrus']
+CCCCCCCCCOC(=O)CCC,['rose']
+CCCCCCCCCOC(=O)CCCCC,['winey']
+CCCCCCCCCOC(=O)CCCCCCC,"['rose', 'earthy']"
+CCCCCCCCCOC(=O)Cc1ccccc1,"['balsamic', 'citrus']"
+CCCCCCCCCOC(=O)c1ccccc1N,['citrus']
+CCCCCCCCCOC=O,['citrus']
+CCCCCCCCO,"['rose', 'citrus']"
+CCCCCCCCOC(=O)C(C)(C)C,['earthy']
+CCCCCCCCOC(=O)C(C)C,['earthy']
+CCCCCCCCOC(=O)C(C)CC,['musty']
+CCCCCCCCOC(=O)CC(C)=O,['caramellic']
+CCCCCCCCOC(=O)CC(C)C,"['rose', 'earthy', 'pineapple']"
+CCCCCCCCOC(=O)CCCCCCCC,"['earthy', 'citrus']"
+CCCCCCCCOC(=O)Cc1ccccc1,"['rose', 'earthy', 'citrus']"
+CCCCCCCCOC(=O)c1ccccc1,['balsamic']
+CCCCCCCCOC(=O)c1ccccc1O,['balsamic']
+CCCCCCCCOC(C)=O,"['earthy', 'citrus']"
+CCCCCCCCOC=O,"['rose', 'citrus']"
+CCCCCCCCOCc1ccccc1,"['earthy', 'balsamic']"
+CCCCCCCCSC,"['earthy', 'pineapple']"
+CCCCCCCCc1cccs1,['musty']
+CCCCCCCO,['musty']
+CCCCCCCOC(=O)/C=C/c1ccccc1,['earthy']
+CCCCCCCOC(=O)C(C)C,['pineapple']
+CCCCCCCOC(=O)CC,"['winey', 'rose']"
+CCCCCCCOC(=O)CCC(C)C,['winey']
+CCCCCCCOC(=O)CCCC,['winey']
+CCCCCCCOC(=O)CCCCCC,['winey']
+CCCCCCCOC(=O)CCCCCCC,['musty']
+CCCCCCCOC(C)=O,"['winey', 'citrus']"
+CCCCCCCOCC(=O)CO,['earthy']
+CCCCCCN,['musty']
+CCCCCCO,['winey']
+CCCCCCOC(=O)/C=C/c1ccccc1,['balsamic']
+CCCCCCOC(=O)C(C)(C)C,['musty']
+CCCCCCOC(=O)C(C)CCC,['winey']
+CCCCCCOC(=O)C(CC)CC,['winey']
+CCCCCCOC(=O)CC,"['earthy', 'musty']"
+CCCCCCOC(=O)CCC(C)=O,"['winey', 'caramellic']"
+CCCCCCOC(=O)Cc1ccccc1,"['winey', 'rose']"
+CCCCCCOC(=O)c1ccccc1,['balsamic']
+CCCCCCOC(=O)c1ccccc1O,['balsamic']
+CCCCCCOC(C)OCC,['earthy']
+CCCCCCS,['burnt']
+CCCCCO,"['winey', 'balsamic', 'burnt']"
+CCCCCOC(=O)/C=C/c1ccccc1,['balsamic']
+CCCCCOC(=O)C(C)C,['pineapple']
+CCCCCOC(=O)C(C)O,['caramellic']
+CCCCCOC(=O)CC,['pineapple']
+CCCCCOC(=O)CC(=O)OCCCCC,['winey']
+CCCCCOC(=O)CCC(C)=O,"['winey', 'caramellic']"
+CCCCCOC(=O)CCCCC,['pineapple']
+CCCCCOC(=O)CCSC,['pineapple']
+CCCCCOC(=O)Cc1ccccc1,['balsamic']
+CCCCCOC(=O)c1ccccc1,"['balsamic', 'musty']"
+CCCCCOC(=O)c1ccccc1O,['balsamic']
+CCCCCOC(=O)c1ccco1,"['winey', 'caramellic']"
+CCCCCOC=O,"['winey', 'earthy']"
+CCCCCc1cccnc1,['earthy']
+CCCCCc1ccco1,['earthy']
+CCCCO,"['winey', 'balsamic']"
+CCCCOC(=O)/C=C/c1ccccc1,['balsamic']
+CCCCOC(=O)C(C)C,['citrus']
+CCCCOC(=O)C(C)CC,['pineapple']
+CCCCOC(=O)C(C)O,"['winey', 'caramellic', 'earthy']"
+CCCCOC(=O)CC(=O)OCC,['winey']
+CCCCOC(=O)CC(C)=O,['winey']
+CCCCOC(=O)CC(C)C,['pineapple']
+CCCCOC(=O)CC(CC(=O)OCCCC)(OC(C)=O)C(=O)OCCCC,['winey']
+CCCCOC(=O)CCC,['pineapple']
+CCCCOC(=O)CCC(=O)OCCCC,['winey']
+CCCCOC(=O)CCC(C)=O,['caramellic']
+CCCCOC(=O)CCCC,['pineapple']
+CCCCOC(=O)COC(=O)CCC,['caramellic']
+CCCCOC(=O)Cc1ccccc1,['rose']
+CCCCOC(=O)c1ccc(O)c(OC)c1,['balsamic']
+CCCCOC(=O)c1ccccc1,['balsamic']
+CCCCOC(=O)c1ccccc1N,['winey']
+CCCCOC(=O)c1ccco1,['caramellic']
+CCCCOC(C)=O,['pineapple']
+CCCCOC(C)OCCCC,"['winey', 'rose']"
+CCCCOCc1ccccc1,['rose']
+CCCCc1ccc(CC)s1,"['earthy', 'burnt']"
+CCCCc1cccnc1,['earthy']
+CCCCc1ccco1,"['winey', 'burnt', 'musty']"
+CCCOC(=O)/C=C/c1ccccc1,"['balsamic', 'musty']"
+CCCOC(=O)C(C)=O,"['caramellic', 'burnt']"
+CCCOC(=O)C(C)C,['pineapple']
+CCCOC(=O)C(C)CC,"['winey', 'pineapple']"
+CCCOC(=O)C(C)O,"['winey', 'caramellic']"
+CCCOC(=O)CC,"['winey', 'pineapple']"
+CCCOC(=O)CC(=O)OCCC,['winey']
+CCCOC(=O)CC(C)=O,['caramellic']
+CCCOC(=O)CCC,['pineapple']
+CCCOC(=O)CCC(=O)OCCC,['winey']
+CCCOC(=O)CCC(C)=O,['caramellic']
+CCCOC(=O)CCC(C)C,['pineapple']
+CCCOC(=O)CCC1CCCCC1,['pineapple']
+CCCOC(=O)Cc1ccccc1,['rose']
+CCCOC(=O)c1ccccc1,['balsamic']
+CCCOC(=O)c1ccccc1N,['winey']
+CCCOC(=O)c1ccco1,"['earthy', 'burnt']"
+CCCOC(C)OCCC,"['winey', 'earthy']"
+CCCOc1cncc(C)n1,['earthy']
+CCCc1cc(OC)c(O)c(OC)c1,"['burnt', 'phenolic']"
+CCCc1ccc(O)c(OC)c1,"['balsamic', 'phenolic']"
+CCCc1ccc(O)cc1,['phenolic']
+CCCc1ccccc1O,"['balsamic', 'phenolic']"
+CCCc1cccnc1,"['earthy', 'burnt', 'musty']"
+CCCc1cccs1,['burnt']
+CCCc1nc(C)c(C)o1,['burnt']
+CCCc1nccnc1C,"['earthy', 'musty']"
+CCNc1ccccc1C(=O)OC,['citrus']
+CCNc1ccccc1C(=O)OCC,['winey']
+CCOC(=O)/C(=C\c1ccccc1)C(C)=O,"['caramellic', 'balsamic']"
+CCOC(=O)/C=C(\C)CCC=C(C)C,['rose']
+CCOC(=O)/C=C/c1ccccc1,['balsamic']
+CCOC(=O)/C=C/c1ccco1,['balsamic']
+CCOC(=O)/C=C\C(=O)OCC,"['winey', 'citrus']"
+CCOC(=O)C(=O)CC(=O)CC,"['caramellic', 'burnt']"
+CCOC(=O)C(=O)OCC,['winey']
+CCOC(=O)C(C)(O)CC,['caramellic']
+CCOC(=O)C(C)=O,['caramellic']
+CCOC(=O)C(C)C(C)=O,['winey']
+CCOC(=O)C(C)CC,['phenolic']
+CCOC(=O)C(C)OC(C)=O,['caramellic']
+CCOC(=O)C(C)SSC,['pineapple']
+CCOC(=O)C(C)c1ccccc1,['balsamic']
+CCOC(=O)C(CC)C(C)=O,"['winey', 'caramellic', 'earthy']"
+CCOC(=O)C(CC)COC(C)=O,['pineapple']
+CCOC(=O)C(Cc1ccccc1)C(C)=O,"['balsamic', 'musty']"
+CCOC(=O)C(O)C(O)C(=O)OCC,"['winey', 'caramellic']"
+CCOC(=O)C(O)CC(C)C,['winey']
+CCOC(=O)C/C(=C/C(=O)O)C(=O)O,"['winey', 'caramellic']"
+CCOC(=O)C1CCCCC1,['winey']
+CCOC(=O)C=C(C)C,['pineapple']
+CCOC(=O)CC,"['winey', 'pineapple']"
+CCOC(=O)CC(=O)c1ccccc1,['phenolic']
+CCOC(=O)CC(C)C,"['winey', 'pineapple']"
+CCOC(=O)CC(C)CC,['pineapple']
+CCOC(=O)CC(C)CC(C)(C)C,['winey']
+CCOC(=O)CC(O)(CC(=O)OCC)C(=O)OCC,['winey']
+CCOC(=O)CC(O)C(=O)OCC,"['winey', 'caramellic']"
+CCOC(=O)CCC(=O)OCC,['winey']
+CCOC(=O)CCC(C)=O,"['caramellic', 'pineapple']"
+CCOC(=O)CCC(C)C,['pineapple']
+CCOC(=O)CCC1CCCCC1,['pineapple']
+CCOC(=O)CCCC(=O)OCC,['winey']
+CCOC(=O)CCCCC(=O)OCC,['winey']
+CCOC(=O)CCCCCCCCC(=O)OCC,['winey']
+CCOC(=O)CCSC,"['caramellic', 'pineapple']"
+CCOC(=O)CCc1ccco1,"['balsamic', 'pineapple']"
+CCOC(=O)c1ccc(O)c(OC)c1,"['burnt', 'phenolic']"
+CCOC(=O)c1ccccc1,['musty']
+CCOC(=O)c1ccccc1NC(C)=O,['citrus']
+CCOC(=O)c1ccco1,"['balsamic', 'burnt']"
+CCOC(=S)C(C)CC,['earthy']
+CCOC(C)(C)C1CC=C(C)CC1,['citrus']
+CCOC(C)=O,['winey']
+CCOC(C)OC(C)=O,"['winey', 'citrus']"
+CCOC(C)c1cnccn1,['earthy']
+CCOC(OCC)C(C)c1ccccc1,"['earthy', 'musty']"
+CCOC(OCC)c1ccco1,"['earthy', 'burnt']"
+CCOC/C=C(\C)CCC=C(C)C,['rose']
+CCOC1=C(C)OC(C)C1=O,['caramellic']
+CCOC=O,"['winey', 'rose']"
+CCOCc1ccc(O)c(OC)c1,['phenolic']
+CCOCc1ccc(O)cc1,['phenolic']
+CCOCc1ccccc1,['pineapple']
+CCOCc1ccccc1O,['phenolic']
+CCOCc1ccccc1OC,['rose']
+CCOCc1cnccn1,"['earthy', 'pineapple']"
+CCOc1cc(C(C)C)ccc1C,['earthy']
+CCOc1ccc(O)cc1,['phenolic']
+CCOc1ccc(OC)cc1,['phenolic']
+CCOc1ccccc1OC,"['earthy', 'phenolic']"
+CCOc1cncc(C)n1,['pineapple']
+CCOc1nccnc1C,"['earthy', 'pineapple']"
+CCOc1nccnc1C(C)C,['earthy']
+CCOc1nccs1,"['burnt', 'musty', 'phenolic']"
+CCSC(C)SCC,['burnt']
+CCSc1ccccc1O,['burnt']
+CCc1cc(OC)c(O)c(OC)c1,"['burnt', 'phenolic']"
+CCc1ccc(C(C)=O)cc1,['balsamic']
+CCc1ccc(C)nc1,['earthy']
+CCc1ccc(C)o1,['burnt']
+CCc1ccc(C)s1,['burnt']
+CCc1ccc(C=O)s1,['caramellic']
+CCc1ccc(O)c(OC)c1,['phenolic']
+CCc1ccc(O)cc1,['phenolic']
+CCc1ccc(OC)cc1,['phenolic']
+CCc1cccc(O)c1,"['burnt', 'musty', 'phenolic']"
+CCc1ccccc1O,['phenolic']
+CCc1ccco1,"['burnt', 'musty']"
+CCc1ccncc1,['earthy']
+CCc1cnc(C)c(C)n1,['burnt']
+CCc1cnc(C)c(CC)n1,['earthy']
+CCc1cnc(C)s1,['burnt']
+CCc1cnc(CC)c(C)n1,['burnt']
+CCc1cnc(CC)cn1,"['earthy', 'musty']"
+CCc1cnc(CC)s1,['musty']
+CCc1cnc(OC)cn1,"['earthy', 'musty']"
+CCc1cnccn1,['musty']
+CCc1nc(C)c(C)o1,"['earthy', 'musty']"
+CCc1nc(C)c(C)s1,['burnt']
+CCc1nc(C)cnc1C,['burnt']
+CCc1nc(C)oc1C,['burnt']
+CCc1nc(C)sc1C,"['earthy', 'burnt']"
+CCc1nc(C)sc1CC,['earthy']
+CCc1ncc(C)nc1C,"['caramellic', 'burnt', 'musty']"
+CCc1ncc(C)nc1CC,"['earthy', 'musty']"
+CCc1nccnc1C,"['earthy', 'burnt', 'musty']"
+CCc1nccnc1C(C)=O,"['earthy', 'musty']"
+CCc1nccnc1CC,['earthy']
+CCc1nccnc1OC,"['earthy', 'musty']"
+CCc1nccnc1SC,"['earthy', 'musty']"
+CCc1ncsc1C,['burnt']
+CCc1occc(=O)c1O,['caramellic']
+CCc1scnc1C,['earthy']
+CCn1cccc1C(C)=O,['burnt']
+CCn1cccc1C=O,['burnt']
+CN1CCNc2ccccc21,['burnt']
+CNc1ccccc1C(=O)OC,"['winey', 'musty', 'phenolic']"
+CNc1ccccc1C(=O)OCC(C)C,['citrus']
+CNc1ccccc1C(=O)OCCc1ccccc1,['citrus']
+COC(=O)/C=C/c1ccccc1,['balsamic']
+COC(=O)C(C)(C)O,['caramellic']
+COC(=O)C(C)=O,['caramellic']
+COC(=O)C(C)C,['pineapple']
+COC(=O)C(O)CC(C)C,"['winey', 'musty']"
+COC(=O)C1CCCCC1,['pineapple']
+COC(=O)CC(C)=O,"['winey', 'citrus']"
+COC(=O)CC(C)C,['pineapple']
+COC(=O)CC(C)CCC=C(C)C,['winey']
+COC(=O)CC(C)O,['winey']
+COC(=O)CCC(=O)OC,['winey']
+COC(=O)CCC(C)=O,"['caramellic', 'burnt']"
+COC(=O)CCC(C)C,['pineapple']
+COC(=O)CCCCC(=O)OC,['winey']
+COC(=O)CCCSC,['pineapple']
+COC(=O)[C@H](C)O,['caramellic']
+COC(=O)c1ccc(O)c(OC)c1,['phenolic']
+COC(=O)c1ccccc1,['phenolic']
+COC(=O)c1ccccc1N,['musty']
+COC(=O)c1ccccc1NC=O,['musty']
+COC(=O)c1ccccc1O,['phenolic']
+COC(=O)c1ccccc1OC,"['winey', 'musty']"
+COC(=O)c1ccco1,"['winey', 'caramellic', 'earthy']"
+COC(C)(C)C,['winey']
+COC(C)(C)C1CC=C(C)CC1,"['earthy', 'citrus']"
+COC(C)(C)CCCC(C)C=O,['citrus']
+COC(C=Cc1ccccc1)OC(C)=O,['balsamic']
+COC(CC(C)=O)OC,['musty']
+COC(CC(C)CCC=C(C)C)OC,['citrus']
+COC(CCc1ccccc1)OC,['earthy']
+COC(Cc1ccccc1)OC,"['rose', 'earthy']"
+COC(OC)C(C)(C)CC=C(C)C,['citrus']
+COC(OC)C(C)c1ccccc1,"['earthy', 'citrus']"
+COC1=C(C)OC(C)C1=O,"['winey', 'caramellic', 'burnt', 'musty']"
+COCCc1ccccc1,['rose']
+COCc1ccc(O)cc1,"['earthy', 'phenolic']"
+COCc1ccccc1,['rose']
+COc1c(C(C)(C)C)cc([N+](=O)[O-])c(C)c1[N+](=O)[O-],['musty']
+COc1cc(/C=C/C(C)=O)ccc1O,['balsamic']
+COc1cc(/C=C/C=O)ccc1O,['balsamic']
+COc1cc(C(=O)O)cc(OC)c1O,['balsamic']
+COc1cc(C(C)=O)cc(OC)c1O,"['balsamic', 'phenolic']"
+COc1cc(C(C)C)ccc1C,"['citrus', 'phenolic']"
+COc1cc(C)cc(O)c1,['phenolic']
+COc1cc(C)cc(OC)c1O,"['caramellic', 'phenolic']"
+COc1cc(C)ccc1C(C)C,['burnt']
+COc1cc(C)ccc1O,"['burnt', 'phenolic']"
+COc1cc(C2OCC(C)O2)ccc1O,['phenolic']
+COc1cc(C=O)cc(OC)c1O,['balsamic']
+COc1cc(CCC(C)=O)ccc1O,"['balsamic', 'phenolic']"
+COc1cc(CO)cc(OC)c1O,['balsamic']
+COc1cc(CO)ccc1O,"['caramellic', 'balsamic', 'phenolic']"
+COc1ccc(/C=C\C(=O)C(C)C)cc1,['caramellic']
+COc1ccc(C(=O)O)cc1,['phenolic']
+COc1ccc(C(C)=O)cc1OC,['balsamic']
+COc1ccc(C)cc1,['phenolic']
+COc1ccc(C)cc1C,['earthy']
+COc1ccc(C)cc1O,['phenolic']
+COc1ccc(C=O)cc1OC,['phenolic']
+COc1ccc(CO)cc1,"['rose', 'balsamic']"
+COc1ccc(COC(=O)Cc2ccccc2)cc1,"['rose', 'balsamic']"
+COc1ccc(COC(C)=O)cc1,['balsamic']
+COc1ccc(O)cc1,['phenolic']
+COc1ccc(OC)cc1,"['earthy', 'phenolic']"
+COc1cccc(O)c1,['phenolic']
+COc1cccc(OC)c1,['earthy']
+COc1cccc(OC)c1O,"['balsamic', 'phenolic']"
+COc1cccc(OC)c1OC,['phenolic']
+COc1ccccc1,['phenolic']
+COc1ccccc1/C=C/C(=O)O,['balsamic']
+COc1ccccc1C,"['earthy', 'phenolic']"
+COc1ccccc1C(C)=O,"['earthy', 'musty', 'phenolic']"
+COc1ccccc1O,['phenolic']
+COc1ccccc1OC,"['earthy', 'musty', 'phenolic']"
+COc1ccccc1OC(=O)Cc1ccccc1,"['balsamic', 'phenolic']"
+COc1ccccc1OC(C)=O,['phenolic']
+COc1ccccc1S,"['earthy', 'phenolic']"
+COc1ccccn1,"['burnt', 'phenolic']"
+COc1cnc(C)c(C)n1,"['earthy', 'musty']"
+COc1cnccn1,"['winey', 'earthy']"
+COc1nccnc1C(C)C,['earthy']
+CSC(C)(C)CC(C)=O,['musty']
+CSC(C)C(C)=O,['earthy']
+CSCCC(C)=O,['earthy']
+CSCCCN=C=S,['earthy']
+CSCc1ccccc1,['burnt']
+CSOC(=O)C(C)OC(C)=O,['pineapple']
+CSc1ccccc1O,"['caramellic', 'burnt']"
+CSc1cnc(C)cn1,['burnt']
+CSc1cncc(C)n1,['burnt']
+CSc1nc2ccccc2s1,['burnt']
+CSc1nccnc1C,['burnt']
+CSc1nccnc1C(C)C,['earthy']
+C[C@@H]1CC(C)(C)CC(=O)C1=O,"['caramellic', 'musty']"
+C[C@@H]1CCC2=C1N=CCN2,['earthy']
+Cc1cc(C)c(O)c(C)c1,['phenolic']
+Cc1cc(C)cc(O)c1,['phenolic']
+Cc1cc(C)nc(C)c1,['musty']
+Cc1cc2ccccc2o1,"['burnt', 'phenolic']"
+Cc1ccc(/C=C/C=O)cc1,['balsamic']
+Cc1ccc(C(C)(C)C)c(O)c1,['burnt']
+Cc1ccc(C(C)C)c(O)c1,['phenolic']
+Cc1ccc(C(C)C)cc1,['citrus']
+Cc1ccc(C(C)C)cc1O,['phenolic']
+Cc1ccc(C)[nH]1,"['earthy', 'burnt']"
+Cc1ccc(C)c(O)c1,['phenolic']
+Cc1ccc(C)c(O)c1C,['phenolic']
+Cc1ccc(C=O)c(O)c1,"['caramellic', 'burnt', 'phenolic']"
+Cc1ccc(C=O)cc1,['phenolic']
+Cc1ccc(C=O)o1,['caramellic']
+Cc1ccc(CC(C)C=O)cc1,"['balsamic', 'citrus']"
+Cc1ccc(CC=O)cc1,['phenolic']
+Cc1ccc(CO)cc1,"['rose', 'balsamic']"
+Cc1ccc(CO)o1,['caramellic']
+Cc1ccc(CS)cc1,['burnt']
+Cc1ccc(O)c(C)c1,"['burnt', 'phenolic']"
+Cc1ccc(O)cc1,['phenolic']
+Cc1ccc(Oc2ccccc2)cc1,['rose']
+Cc1ccc2c(c1)OCC(=O)CO2,['phenolic']
+Cc1cccc(C)c1O,['phenolic']
+Cc1cccc(C)c1S,['phenolic']
+Cc1cccc(C)n1,['musty']
+Cc1cccc(C=O)c1,['phenolic']
+Cc1cccc(O)c1,['phenolic']
+Cc1cccc(O)c1C,"['musty', 'phenolic']"
+Cc1cccc2ccccc12,"['earthy', 'musty']"
+Cc1cccc2nccnc12,"['burnt', 'musty']"
+Cc1ccccc1O,"['musty', 'phenolic']"
+Cc1ccccc1OC(=O)C(C)C,['phenolic']
+Cc1ccccc1OC(=O)Cc1ccccc1,"['balsamic', 'phenolic']"
+Cc1ccccc1S,"['burnt', 'musty', 'phenolic']"
+Cc1ccccc1SSc1ccccc1C,['burnt']
+Cc1cccnc1,['earthy']
+Cc1ccnc(C)c1,['phenolic']
+Cc1ccnc2ccccc12,"['burnt', 'musty']"
+Cc1cnc(C(C)C)cn1,['earthy']
+Cc1cnc(C)c(C)n1,"['earthy', 'burnt', 'musty']"
+Cc1cnc(C)cn1,"['earthy', 'musty']"
+Cc1cnc(C)s1,['earthy']
+Cc1cnc2c(n1)CCC2C,"['earthy', 'burnt', 'musty']"
+Cc1cnccn1,"['earthy', 'musty']"
+Cc1csc(C(C)C)n1,"['earthy', 'musty']"
+Cc1nc(C(C)C)oc1C,['earthy']
+Cc1nc(C(C)C)sc1C,['earthy']
+Cc1nc(C)c(C)nc1C,"['burnt', 'musty']"
+Cc1nc(C)c(C)s1,['musty']
+Cc1nc(C)c(CC(C)C)o1,"['earthy', 'burnt']"
+Cc1nc(CC(C)C)sc1C,"['rose', 'earthy']"
+Cc1nc2c(nc1C)CCC2,"['earthy', 'burnt']"
+Cc1nc2ccccc2o1,"['burnt', 'phenolic']"
+Cc1nccnc1C,"['caramellic', 'musty']"
+Cc1nccnc1CC(C)C,"['caramellic', 'earthy']"
+Cc1nccnc1SCc1ccco1,['caramellic']
+Cc1oc2ccccc2c1C,['phenolic']
+Cc1occc(=O)c1O,"['caramellic', 'burnt']"
+Cc1occc(=O)c1OC(=O)C(C)C,"['caramellic', 'burnt']"
+Cc1occc1SC(C(=O)CC(C)C)C(C)C,['citrus']
+Cn1cccc1C=O,['burnt']
+NCCc1ccc(O)cc1,['phenolic']
+Nc1ccccc1C(=O)OCc1ccccc1,['citrus']
+O=C(/C=C/c1ccccc1)OC/C=C/c1ccccc1,"['rose', 'balsamic']"
+O=C(/C=C/c1ccccc1)OC1CCCCC1,['balsamic']
+O=C(/C=C/c1ccccc1)OCCc1ccccc1,"['rose', 'balsamic']"
+O=C(/C=C/c1ccccc1)OCc1ccccc1,['balsamic']
+O=C(/C=C\c1ccccc1)OCCCc1ccccc1,"['rose', 'balsamic']"
+O=C(C=Cc1ccccc1)OCC1CCCO1,"['winey', 'balsamic']"
+O=C(CCO)c1cccs1,"['caramellic', 'burnt']"
+O=C(CCc1ccccc1)OCCCc1ccccc1,['balsamic']
+O=C(CCc1ccccc1)c1ccc[nH]1,['caramellic']
+O=C(Cc1ccccc1)OC/C=C/c1ccccc1,['balsamic']
+O=C(Cc1ccccc1)OCCc1ccccc1,"['rose', 'balsamic']"
+O=C(O)/C=C/c1ccccc1,['balsamic']
+O=C(O)/C=C\C(=O)O,['winey']
+O=C(O)C(=O)CO,['burnt']
+O=C(O)C(=O)Cc1ccccc1,"['caramellic', 'burnt', 'phenolic']"
+O=C(O)CC1CCCCC1,"['caramellic', 'musty']"
+O=C(O)CCC1CCCCC1,['balsamic']
+O=C(O)CCc1ccccc1,"['rose', 'balsamic']"
+O=C(O)c1ccccc1,"['balsamic', 'burnt']"
+O=C(OC/C=C/c1ccccc1)c1ccccc1,['balsamic']
+O=C(OC1CCCCC1)c1ccccc1,['balsamic']
+O=C(OC1CCCCC1)c1ccccc1O,['balsamic']
+O=C(OCCCc1ccccc1)c1ccccc1,['balsamic']
+O=C(OCCCc1ccccc1)c1ccccc1O,['balsamic']
+O=C(OCCOc1ccccc1)c1ccccc1,['balsamic']
+O=C(OCCc1ccccc1)c1ccccc1,"['rose', 'balsamic']"
+O=C(OCCc1ccccc1)c1ccccc1O,"['rose', 'balsamic']"
+O=C(OCCc1ccccc1)c1ccco1,"['rose', 'caramellic', 'musty']"
+O=C(OCc1ccccc1)c1ccccc1,['balsamic']
+O=C(OCc1ccccc1)c1ccccc1O,['balsamic']
+O=C(Oc1ccccc1)c1ccccc1,"['balsamic', 'phenolic']"
+O=C(Oc1ccccc1)c1ccccc1O,['balsamic']
+O=C(c1ccccc1)C(O)O,['earthy']
+O=C(c1ccccc1)c1ccccc1,"['rose', 'balsamic']"
+O=C1C=CCO1,"['winey', 'burnt']"
+O=C1CCCC1,['musty']
+O=C1CCCC=C1O,"['caramellic', 'burnt']"
+O=C1CCCO1,['caramellic']
+O=C1CCCS1,['burnt']
+O=C1OCc2ccccc21,['phenolic']
+O=CCC1CCOC1=O,"['caramellic', 'burnt']"
+O=CCCc1ccccc1,['balsamic']
+O=CCc1ccccc1,"['rose', 'earthy']"
+O=COC/C=C/c1ccccc1,['balsamic']
+O=COCCc1ccccc1,['rose']
+O=Cc1ccc(CO)o1,"['winey', 'caramellic', 'musty']"
+O=Cc1ccc(O)c(O)c1,['burnt']
+O=Cc1ccc(O)cc1,"['balsamic', 'phenolic']"
+O=Cc1ccc[nH]1,"['burnt', 'musty']"
+O=Cc1cccc(O)c1,['phenolic']
+O=Cc1ccccc1O,['phenolic']
+O=Cc1ccco1,"['caramellic', 'phenolic']"
+O=c1cccc[nH]1,['burnt']
+O=c1occcc1O,['caramellic']
+OC/C=C\c1ccccc1,['balsamic']
+OC1CCCCC1,['phenolic']
+OC1CCCCCCCCCCC1,['earthy']
+OCC1CCCO1,['caramellic']
+OCC1COC(Cc2ccccc2)O1,['rose']
+OCCCCCc1ccccc1,"['rose', 'citrus']"
+OCCCCc1ccccc1,['rose']
+OCCCc1ccccc1,['balsamic']
+OCCOc1ccccc1,"['rose', 'balsamic']"
+OCCc1ccc(O)cc1,['rose']
+OCCc1ccccc1,['rose']
+OCc1ccc(O)cc1,['phenolic']
+OCc1ccccc1,"['rose', 'balsamic', 'phenolic']"
+OCc1cccs1,['burnt']
+Oc1ccc2c(c1)OCO2,['phenolic']
+Oc1ccccc1,['phenolic']
+Oc1ccccc1-c1ccccc1,['phenolic']
+Oc1ccccc1O,"['burnt', 'phenolic']"
+S=c1[nH]c2ccccc2s1,['burnt']
+SC1CCCC1,['burnt']
+SCCCCCCS,['burnt']
+SCCCCS,['burnt']
+SCCc1cnccn1,['burnt']
+SCc1ccco1,"['caramellic', 'burnt']"
+Sc1cccs1,"['caramellic', 'burnt']"
+c1cc[nH]c1,['burnt']
+c1ccc(-c2ccccc2)cc1,['rose']
+c1ccc(CCCC2CCCO2)cc1,['caramellic']
+c1ccc(CCCc2ccccn2)cc1,['earthy']
+c1ccc(COCc2ccccc2)cc1,"['rose', 'earthy']"
+c1ccc(CSSCc2ccccc2)cc1,"['caramellic', 'earthy', 'burnt']"
+c1ccc(Cc2ccccc2)cc1,['rose']
+c1ccc(Oc2ccccc2)cc1,['phenolic']
+c1ccc2[nH]ccc2c1,['musty']
+c1ccc2c(c1)CCO2,['phenolic']
+c1ccc2cnccc2c1,['balsamic']
+c1ccc2ncccc2c1,"['earthy', 'musty']"
+c1ccc2nccnc2c1,['burnt']
+c1ccc2sccc2c1,"['earthy', 'burnt']"
+c1ccc2scnc2c1,['burnt']
+c1ccncc1,['burnt']
+c1cnc(CC2CCCCC2)cn1,"['earthy', 'musty']"
+c1cnc2c(n1)CCCC2,['musty']
+c1coc(CCc2ccco2)c1,['burnt']
+c1coc(COCc2ccco2)c1,"['earthy', 'burnt']"
+c1coc(CSCc2ccco2)c1,"['earthy', 'burnt']"
+c1coc(Cn2cccc2)c1,['earthy']
